@@ -1,0 +1,798 @@
+*3
+$3
+set
+$13
+sessions:0:id
+$3
+862
+*3
+$3
+set
+$12
+sessions:749
+$437
+{"id":749,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"shanetech","password":"","custom":{},"tokens":{},"session_id":"1bf457ff42b88ae2ae5f3934c42f5526d28cb62e1a6366d813172862b15607f6","useragent":"Mozilla/5.0 (Linux; Android 11; Lenovo L70081) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36","remote_addr":"172.21.0.1","create_time":1653950017,"update_time":1653950846}
+*3
+$3
+set
+$12
+sessions:750
+$420
+{"id":750,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"","password":"","custom":{},"tokens":{},"session_id":"445ea2e290aa55b30792e539eb1eacd755b036778d451f4c149ac8187b31a79f","useragent":"Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.370.0 Safari/533.4","remote_addr":"172.21.0.1","create_time":1653951020,"update_time":1653951020}
+*3
+$3
+set
+$12
+sessions:751
+$472
+{"id":751,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"foobar@gmail.com","password":"","custom":{},"tokens":{},"session_id":"090fb1ff4325e649bf700442b96dbbd2a6a386e0d17aae93ae7f07124a7033eb","useragent":"Mozilla/5.0 (Linux; Android 8.1.0; Pixel C Build/OPM7.181205.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.136 Safari/537.36","remote_addr":"172.21.0.1","create_time":1653953742,"update_time":1653953757}
+*3
+$3
+set
+$12
+sessions:752
+$491
+{"id":752,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"tomkristianabel","password":"k22$YmuE!8$Yi7ZcS4@K","custom":{},"tokens":{},"session_id":"a88f28779c89c9bceb18aa490b7cca6ded5812a2fb01326f04ad7cfbcd5f1cf3","useragent":"Mozilla/5.0 (Linux; Android 8.1.0; Pixel C Build/OPM7.181205.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.136 Safari/537.36","remote_addr":"172.21.0.1","create_time":1653954532,"update_time":1653954683}
+*3
+$3
+set
+$12
+sessions:753
+$471
+{"id":753,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"foobar@gmail.com","password":"","custom":{},"tokens":{},"session_id":"f29b4f13bd6c1ed54505c1017fc32506f67ff5ab10b8acf5d881717b174b1f21","useragent":"Mozilla/5.0 (Linux; Android 8.1.0; Pixel C Build/OPM7.181205.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.136 Safari/537.36","remote_addr":"127.0.0.1","create_time":1654030549,"update_time":1654030560}
+*3
+$3
+set
+$12
+sessions:754
+$471
+{"id":754,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"foobar@gmail.com","password":"","custom":{},"tokens":{},"session_id":"fda73eca5f20b76f16f3d8574888d7b7f6a0d5b7e80c37395a19a797eb20be7f","useragent":"Mozilla/5.0 (Linux; Android 8.1.0; Pixel C Build/OPM7.181205.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.136 Safari/537.36","remote_addr":"127.0.0.1","create_time":1654030619,"update_time":1654030622}
+*3
+$3
+set
+$12
+sessions:755
+$378
+{"id":755,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"test","password":"","custom":{},"tokens":{},"session_id":"c5872aa265eeb31715ad0d301c87303898b2d10630a7ec96725bdb941cd1ed87","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654030692,"update_time":1654030695}
+*3
+$3
+set
+$12
+sessions:756
+$388
+{"id":756,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"test@gmail.com","password":"","custom":{},"tokens":{},"session_id":"064e6e8c887a5e3f80d0d777ca82cec05fe252030ccec6ca96c6afd6c85c7ee3","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654030749,"update_time":1654030753}
+*3
+$3
+set
+$12
+sessions:757
+$389
+{"id":757,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"tomkristianabel","password":"","custom":{},"tokens":{},"session_id":"8f42770413a5df316659b021948aea00826ad41a27eb773731616275f9e76295","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654031016,"update_time":1654031023}
+*3
+$3
+set
+$12
+sessions:758
+$374
+{"id":758,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"","password":"","custom":{},"tokens":{},"session_id":"f976a1a328e59f93561fc707cc1a1d76264ab7e85e955e673362c6a2c2746c08","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654031072,"update_time":1654031072}
+*3
+$3
+set
+$12
+sessions:759
+$389
+{"id":759,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"tomkristianabel","password":"","custom":{},"tokens":{},"session_id":"90907a592cc54a6302ffedb40a9f4dcbe76fabf39f25794beb2eeffb144ae3b3","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654031126,"update_time":1654031133}
+*3
+$3
+set
+$12
+sessions:760
+$381
+{"id":760,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"dfghjk.","password":"","custom":{},"tokens":{},"session_id":"748faf586bc9d905f26b1f868780a7e0c7ede0b885f8675724ac7ef4e9fb69d7","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654031174,"update_time":1654031178}
+*3
+$3
+set
+$12
+sessions:761
+$380
+{"id":761,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"qwerty","password":"","custom":{},"tokens":{},"session_id":"351a066af863b6af4720ce431353c41afad7b5b44d352016f7661e37ff156005","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654031242,"update_time":1654031247}
+*3
+$3
+set
+$12
+sessions:762
+$380
+{"id":762,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"dfgffd","password":"","custom":{},"tokens":{},"session_id":"715004d2654ca34e49c80348b2cb963699ba069885603c3d140d999caf547c6d","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654031285,"update_time":1654031289}
+*3
+$3
+set
+$12
+sessions:763
+$389
+{"id":763,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"tomkristianabel","password":"","custom":{},"tokens":{},"session_id":"8ed00fc6037537ee3e841485d976e0c2b8eafd926641bde12b365150d2d7d794","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654031321,"update_time":1654031327}
+*3
+$3
+set
+$12
+sessions:764
+$389
+{"id":764,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"tomkristianabel","password":"","custom":{},"tokens":{},"session_id":"7a404825aaf08e2882162082821343023417ea8bb88fba5370ed4368244595eb","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654031385,"update_time":1654031392}
+*3
+$3
+set
+$12
+sessions:765
+$389
+{"id":765,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"tomkristianabel","password":"","custom":{},"tokens":{},"session_id":"f545e3458675d96ff4a51fcae50e053434a6d558413a1f2e2f4c689c27696e7a","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654031442,"update_time":1654031447}
+*3
+$3
+set
+$12
+sessions:766
+$389
+{"id":766,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"tomkristianabel","password":"","custom":{},"tokens":{},"session_id":"19c454c5f7fb89e9f6803aafd86f65903506f4b899d864dedf9137eeec6149c7","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654031515,"update_time":1654031523}
+*3
+$3
+set
+$12
+sessions:767
+$389
+{"id":767,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"tomkristianabel","password":"","custom":{},"tokens":{},"session_id":"21ca2f7e4b170a121c247d4ed327ee556167cd9a00a01f629c421e368bf2dc75","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654031571,"update_time":1654031577}
+*3
+$3
+set
+$12
+sessions:768
+$377
+{"id":768,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"tom","password":"","custom":{},"tokens":{},"session_id":"189162232d76b45981f78264e4074d3e4594956e72cfac1bdbf1120969a9f55b","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654031651,"update_time":1654031656}
+*3
+$3
+set
+$12
+sessions:769
+$389
+{"id":769,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"tomkristianabel","password":"","custom":{},"tokens":{},"session_id":"afd790e0f6bb20abc5e5090c12337600502744c1aaccfd601a5182fb792500ba","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654031793,"update_time":1654031807}
+*3
+$3
+set
+$12
+sessions:770
+$470
+{"id":770,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"tomkristianabel","password":"","custom":{},"tokens":{},"session_id":"155074cfbfaea2e0c311edf960b0502856f7f53d683da8289d8473d920eca6be","useragent":"Mozilla/5.0 (Linux; Android 8.1.0; Pixel C Build/OPM7.181205.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.136 Safari/537.36","remote_addr":"127.0.0.1","create_time":1654031842,"update_time":1654031858}
+*3
+$3
+set
+$12
+sessions:771
+$461
+{"id":771,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"foobar","password":"","custom":{},"tokens":{},"session_id":"1f631ef430a145ad816353369d1b23d3f3c5c8c0e9e8edaaf6d6c99774b0538e","useragent":"Mozilla/5.0 (Linux; Android 8.1.0; Pixel C Build/OPM7.181205.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.136 Safari/537.36","remote_addr":"127.0.0.1","create_time":1654031898,"update_time":1654031912}
+*3
+$3
+set
+$12
+sessions:772
+$470
+{"id":772,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"tomkristianabel","password":"","custom":{},"tokens":{},"session_id":"c6e5cf5bbaf4b15c2b6bdc90c00a0e416df5c90171ceee6a7ab3147d5e32c1c5","useragent":"Mozilla/5.0 (Linux; Android 8.1.0; Pixel C Build/OPM7.181205.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.136 Safari/537.36","remote_addr":"127.0.0.1","create_time":1654034593,"update_time":1654034599}
+*3
+$3
+set
+$12
+sessions:773
+$389
+{"id":773,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"tomkristianabel","password":"","custom":{},"tokens":{},"session_id":"2d4f5094e0de9a16f482377b1b4bdc98b491d7a91349a9114fcb9f008ca9b8ff","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654034786,"update_time":1654034792}
+*3
+$3
+set
+$12
+sessions:774
+$389
+{"id":774,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"tomkristianabel","password":"","custom":{},"tokens":{},"session_id":"9e5440ff031088d1e1d81becfd978a1c77be9b3717ddaf02b8d2ebb081a5a501","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654034956,"update_time":1654034962}
+*3
+$3
+set
+$12
+sessions:775
+$389
+{"id":775,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"tomkristianabel","password":"","custom":{},"tokens":{},"session_id":"65d7a05c866af44aeb1ac339618bbed1989bea1d8afeea75fb4cf8daa2a60318","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654035324,"update_time":1654035328}
+*3
+$3
+set
+$12
+sessions:776
+$380
+{"id":776,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"qwerty","password":"","custom":{},"tokens":{},"session_id":"32172210ec98433661783d482ad4136b11e3ff558d4444b2d0490e3d1bda88ad","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654035379,"update_time":1654035384}
+*3
+$3
+set
+$12
+sessions:777
+$389
+{"id":777,"phishlet":"google","landing_url":"https://accounts.google2.com/login","username":"tomkristianabel","password":"","custom":{},"tokens":{},"session_id":"02dc22a87a6f94815f5d2f1b955ac1469fc196894c09a5e0f24963b64d5edada","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0","remote_addr":"127.0.0.1","create_time":1654035409,"update_time":1654035413}
+*3
+$3
+set
+$12
+sessions:778
+$420
+{"id":778,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"john@ccwarch.com","password":"","custom":{},"tokens":{},"session_id":"b3cf3b1a293f23e11a4f0e9ddefde95d5b24bee7e0b5acd47e29e6e9dc1839a0","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36","remote_addr":"127.0.0.1","create_time":1654184223,"update_time":1654184419}
+*3
+$3
+set
+$12
+sessions:779
+$420
+{"id":779,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"john@ccwarch.com","password":"","custom":{},"tokens":{},"session_id":"8f80d4b424f84777f948f3ac34ab1a499f2923571a7ff450e0f8d928fda28150","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36","remote_addr":"127.0.0.1","create_time":1654185017,"update_time":1654185025}
+*3
+$3
+set
+$12
+sessions:780
+$4333
+{"id":780,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"john@ccwarch.com","password":"","custom":{},"tokens":{".login.live.com":{"MSPRequ":{"Name":"MSPRequ","Value":"id=N\u0026lt=1654195756\u0026co=0","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"uaid":{"Name":"uaid","Value":"98269c036e454959b79078bbcc44e2e0","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}},".login.microsoftonline.com":{"ESTSAUTH":{"Name":"ESTSAUTH","Value":"0.ARIAiQb-8EuF-EaMoj5Z7O9QaFtEZUfGMrBJg-Ydk3ZSdsoSAEU.AgABAAQAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P_P14Ci-fwVdv1S4zu9rR3fe8bRQbl67-oUzjzsJ_oDFqcylP2FaUak1F6U71TGjajFPkd1owR7PA8yfXKnj3IUuPx3kPy-grzFrp7_VGCYOjgas__EJEnXMs3zyLagZ77VUG0RmKfTq5EgO5oCWNwPh7gVz_2xjityUQPrbqxkoDcdl1eEeoxlaeodGgeVqM-Ejs-NhFXEYHMbv2WszhCB1rTAKCWDpJp1qZs8jZdHPb7Uh0ubNoihzJi9WQxZ0gakjj2IiSHbQK1ve_1R0p0AcvGoWk4CijWDSxK8zWP3sPGsf8_88LhU2YaHh_u2vBR7eCXAESTP_6uotbj4LjvwiiE4IY5lznkBHROg5V7yXeq4aX4ofs_iEkoagbXjaZ0pHwgs7g71Rz1JOkZhGUPk7C_ftrW_RiGJ_srgxWWwNnfMFuXPV7aM0LQ_XpHuhYvJ2WrnHWoRndcCpbqSYuv7CPU4C3-OXMX8REJq7SWC7KSIJsDaHKgIvIIkMPGMpQff2kUFu9f7ype_8lqunpNaMjZ9a6o9nAOZq6LDeAyrraX3twqfjRUUnkJOjG7SEL5_5C74f6SMP4bKtHlC_SPkUbbZ_zlmJx2uE_RKBG-4bh5KVr8jbH4OCvw-zWblHsfuZ_BRl-zQujYQu_7vTjAkUdmDcqJVan7PNfKuKPJ9EBrbRow2aBv0cRpwSt5cIE-gCNA1Dz-8CT3CNsFuual5zTlsNtsJ2eLc3FFaEJi4Lr7-2qMr5AGuYeF_Bjn2mcqAO3BAujML9Xr-aqskjQA_P9lMsfMHkCqr5HrZCbHvcO4rUZ8mxA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"ESTSAUTHPERSISTENT":{"Name":"ESTSAUTHPERSISTENT","Value":"0.ARIAiQb-8EuF-EaMoj5Z7O9QaFtEZUfGMrBJg-Ydk3ZSdsoSAEU.AgABAAQAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P-88ARiMYp77x7c__gXGUU7iK3HY_f44np2TpJJGGWIeomU2L5tc6C24LcgJ4Tn5bqGk-ZOYKxmVIH-kBbYVpgh-9U4wC24Ex-4W1H-d9y2F6AiRK_ELti36c93arSRW8Sud4fLk9CjvjJYIv-ElUhVdNSVM2i5sTkDSDKwNHBJcFmMQ_EzZdy__qCzgvg7WRx621OWBvmYq0JwW-N2g7FTAd23t6_y9qTzQAzZz9OdL0i3fEXYCd8hLqvtni_THwzbwcS8Yh5iDBhluDsYnlYHyCTo_ztC2eXZx4l0UbR-lVm-XxJ_U8RP-Z1xGjO6UtmaB5RbmpUfJ7TBunrXJxCoVR7XD1PXvS4BwPSoXc0xCnz1kVnemGkgZTzx1KMcAQE107m65zBzE8NL","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"SignInStateCookie":{"Name":"SignInStateCookie","Value":"CAgABAAIAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P9OtFeW7vcw57zuO6d_2uSSvB33DrT0m5-9TXQM6fPI-KkPdw3OiGJPK2pI-IJK9RTQvDJY9b_zDSQA7pHsamqxu0TSKhUehsq47clwwZgu8t0ZaMQR4e_IU1oYQ504jDuBTT-ZyvfOigG1S4lTkym_64QRXcKMhpEh7lv7isxKXSCu4COzh_Lo9UBui7tJ94yHHr2wr89UnY6_tiWxsVvosBiuj2Ovg-RL_GX79MYISIs7dDqH2OjEFa5mpFVO5s_T5inY_D7dAR0APGE8cEcux6mcHAIKmHRJOC9bNyq-6CqCCwtC-BZT","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"esctx":{"Name":"esctx","Value":"AQABAAAAAAD--DLA3VO7QrddgJg7WevrU7VwRNa9LYf-Mw92DL32fID-fSEzpZp4NqfcGUG3aySxQJkWHi9MhkcETQuUJL8BFA3-xmXNabMeYzg8h51FkvdETJ1axBDIn06KIPyRsk3ODGlbr5Idg-oY52Mwgr3M5PEw2rCLG94J4Qk90mz7hpxnH6UJQv1WMQmBOMT7CNEgAA","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}},"login.microsoftonline.com":{"ESTSAUTHLIGHT":{"Name":"ESTSAUTHLIGHT","Value":"+e587edd8-a9c7-4a4a-8089-e6a6e624bd89","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"ESTSSC":{"Name":"ESTSSC","Value":"00","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"buid":{"Name":"buid","Value":"0.ARIAiQb-8EuF-EaMoj5Z7O9QaFtEZUfGMrBJg-Ydk3ZSdsoSAEU.AQABAAEAAAD--DLA3VO7QrddgJg7WevrdV_MzaUwLPQl6EXzgpwGr48CkLq4nQ_3g93Lw5PuLVKAQgRp-2Om_FkA-OTNfAPihAFM727dq2-m9WbpLRdX3O7yFEv8tM1g-qjgIyh0OPJDAfKqdrC3gX27FmZAXYinf0_gq_0L4TysYiwRqTZtHz6vW4sbJyFbybgV1uUAcMQgAA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"fpc":{"Name":"fpc","Value":"AsFPdVmdzzdOlu1OR5kB1Sm8Ae7AAwAAAAb9KtoOAAAASQh5_AEAAAAq_SraDgAAAOUFyxMBAAAANv0q2g4AAAA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"stsservicecookie":{"Name":"stsservicecookie","Value":"estsfd","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"x-ms-gateway-slice":{"Name":"x-ms-gateway-slice","Value":"estsfd","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"3cb566f139ea5099aed901d0f9afe67f7e8b856e928d846c107b78c5ac7eecdc","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36","remote_addr":"127.0.0.1","create_time":1654195698,"update_time":1654195750}
+*3
+$3
+set
+$12
+sessions:781
+$4027
+{"id":781,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"john@ccwarch.com","password":"JohnABigBear56$","custom":{},"tokens":{".login.live.com":{"MSPRequ":{"Name":"MSPRequ","Value":"id=N\u0026lt=1654196223\u0026co=2","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"uaid":{"Name":"uaid","Value":"06790cc15578470a97df93c5db21307f","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}},".login.microsoftonline.com":{"ESTSAUTH":{"Name":"ESTSAUTH","Value":"0.ARIAiQb-8EuF-EaMoj5Z7O9QaFtEZUfGMrBJg-Ydk3ZSdsoSAEU.AgABAAQAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P_bVxlMXZmQ8kNalQcxTzSfO1af5OmMWmKb4J5OUjFglG51_wYgaObCgCefZGxkFaZU3N68bDEbAA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"ESTSAUTHPERSISTENT":{"Name":"ESTSAUTHPERSISTENT","Value":"0.ARIAiQb-8EuF-EaMoj5Z7O9QaFtEZUfGMrBJg-Ydk3ZSdsoSAEU.AgABAAQAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P8Gi5SO2DjWBDSX1dQt-E4bL9JFssnOCLhwBLjeh69Iy3keaxOwbKWbxGUN9LvYi1Qsr7Q93-uvbb6JI_ijWsJ3BbQpm1k8AyLKfZIhVnCf2Z3KHmze1-DXdjvEY6UBHswrnijUR102jKJlaQnMmf2Lt4LFzSf6_6On19cTaDHkBygdrCIuGeEIBOm3MHOqJI6YQKegscMcarye4OzsiaZ9-e2XynaVVBqxMsfvF0I9752kGSegCUNNTmS_MZxPmUWlwkMOuGqWWEko6yr5ScFSFrOxFwADWfzslJE52VWDrUqqoApj_qFwNAj2hKpPVBbmsmbgiYqoefS-6HrAMW1hJnv1_XTxZeCf_2BR-IX8_Aj-thtOeUcuMvWd9aYlgSg_XGgq6BeP0vM97PB5A1hvZipihq9R03XdKYcVbJeQNBTt9f-71zihPKiKBQ1EZJkGz6qg_YPZ-bGenel91ygGH6-zpEzEGK0TJougMnI8QlRWYjcgpAtrup4hp4TKbO85riWxAbr3TdtHXV0mSOG62W9-fq-aDUN7U5ecGx3vOerBG5jcfd4ChbnBtNEzSLLoBlw8_6HCNGy6eBEIu4fT0_ddM64Yl_cen_GZYyzrYTb35oRVFgiprY5Ie5NjN9iEz8Lsrnfd0TMAP5yAF6MwMANzzk758xMDCXKS8H2lRRwZFKUOTyaxixOjHwTaJZYktdWU-HYkWW-EZIvcPM9YT-6-0AZsI_hOmnmKBDnzx_64DEZaOYMRF8hXgS9IwzEQA8hVdOMY1Vx6sKHQbQ4_TiQ84Qon05TRGPc9XE3Z-sML1flt--0","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"SignInStateCookie":{"Name":"SignInStateCookie","Value":"CAgABAAIAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P-Ty2rE4uUr03YVmXP4vJjznwCpM50r3j6iKr-skw3kWV0jHTGqHt5JLKpO4XmfiBuM5_iV2HicalQ435Zz1nzGYOorGV486cINViVP_-EeOU7vzc1QPR0gL_X2dlebtjraz-Bvj5N6TsvuO7_MyZCJzVuXt3MoAwvBsH4rPLmUYmrB09naj_s8Js43A36Nrt0c7w4N6fz_Z2zV2VqUOwBs0xAFidcWG3koxvuk4v22chH---eQMbsKqEDerCVVcvx5m6B9w99cjnAeJN-PUSVbYPg_Z0X6mLCfmvTwCuPaaJMP4mbGbCem","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"esctx":{"Name":"esctx","Value":"AQABAAAAAAD--DLA3VO7QrddgJg7Wevrb9vrlf1qc5Wx3SwmiBkDpse24Zp4hmL8BmJrSnnwguYbLvijo3QteVi5Epe_e1AFWp-XFYS3NJ2ix5VQnpl1PO0o2sHYN3vyUy123rl3FFJXYBAQBoS-vmf48BwCpK67gsOjMYWaDo2hCFT5FG6XL8Cwwo1YFC_LX3cQixKCu8QgAA","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}},"login.microsoftonline.com":{"ESTSAUTHLIGHT":{"Name":"ESTSAUTHLIGHT","Value":"+c17c45a9-0e94-475b-8147-ddb9c5b8cda1","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"ESTSSC":{"Name":"ESTSSC","Value":"00","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"buid":{"Name":"buid","Value":"0.ARIAiQb-8EuF-EaMoj5Z7O9QaFtEZUfGMrBJg-Ydk3ZSdsoSAEU.AQABAAEAAAD--DLA3VO7QrddgJg7WevrQ6bxEl2ia9ZqtJazLlMilhhBOhz90Z0SHULtxpBmwbWdAUkZAPJ7c5LC7z4lCluHyOEJ24G1KcRVyg3XlpykYvgrHGA7u8460OREF4tglWJx8pGlmF8582uyoBPmDFTI_ScZL_7ep0tBvHabkqYL8ShME50rDJ7KrV4fTWYtmI8gAA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"fpc":{"Name":"fpc","Value":"As5u-AYvCatFm5nwgbOfGwW8Ae7AAQAAAP3-KtoOAAAASQh5_AEAAAAG_yraDgAAAOUFyxMBAAAACP8q2g4AAAA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"stsservicecookie":{"Name":"stsservicecookie","Value":"estsfd","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"x-ms-gateway-slice":{"Name":"x-ms-gateway-slice","Value":"estsfd","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"cf5301886085446dbf8c1b9c39b6928b1cac6e81b4c29770783b3d947c09d068","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36","remote_addr":"127.0.0.1","create_time":1654196201,"update_time":1654196215}
+*3
+$3
+set
+$12
+sessions:782
+$399
+{"id":782,"phishlet":"stake","landing_url":"https://google2.com/stake","username":"","password":"","custom":{},"tokens":{},"session_id":"b64f8087a60fef98bc7db52c8129ebb2bf67168f10eda0d14d3220da391dd334","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36","remote_addr":"127.0.0.1","create_time":1654222484,"update_time":1654222484}
+*3
+$3
+set
+$12
+sessions:783
+$399
+{"id":783,"phishlet":"stake","landing_url":"https://google2.com/stake","username":"","password":"","custom":{},"tokens":{},"session_id":"c0180cbce20b3a4457d7c38be209afa2fca8b1c45962d5eee2b4cbdd9bd23e87","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36","remote_addr":"127.0.0.1","create_time":1654222583,"update_time":1654222583}
+*3
+$3
+set
+$12
+sessions:784
+$370
+{"id":784,"phishlet":"icloud","landing_url":"https://www.google2.com/icloud","username":"","password":"","custom":{},"tokens":{},"session_id":"5b4bd80ba8467f4151a2934e3e10881a929ab3ad33ee7a43cb8e8e966e6bd025","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0","remote_addr":"127.0.0.1","create_time":1654379667,"update_time":1654379667}
+*3
+$3
+set
+$12
+sessions:785
+$372
+{"id":785,"phishlet":"icloud","landing_url":"https://share.google2.com/icloud","username":"","password":"","custom":{},"tokens":{},"session_id":"d12f34382b1e45da2131c56978931b8c0789caa69220a8d2ec7a8db1948c2d53","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0","remote_addr":"127.0.0.1","create_time":1654385721,"update_time":1654385721}
+*3
+$3
+set
+$12
+sessions:786
+$372
+{"id":786,"phishlet":"icloud","landing_url":"https://share.google2.com/icloud","username":"","password":"","custom":{},"tokens":{},"session_id":"aead0b74835cc2153df24718e804bf7023706c52d6139225d0fddcbb05d79452","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0","remote_addr":"127.0.0.1","create_time":1654385846,"update_time":1654385846}
+*3
+$3
+set
+$12
+sessions:787
+$940
+{"id":787,"phishlet":"icloud","landing_url":"https://www.google2.com/icloud","username":"icloud@narkootikumid.ee","password":"h.BdXN,e,7Wq","custom":{},"tokens":{".icloud.com":{"X-APPLE-WEBAUTH-USER":{"Name":"X-APPLE-WEBAUTH-USER","Value":"v=1:s=0:d=17900606187","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0},"X-APPLE-WEBAUTH-VALIDATE":{"Name":"X-APPLE-WEBAUTH-VALIDATE","Value":"v=1:t=Aw==BST_IAAAAAAABLwIAAAAAGKb7UcRDmdzLmljbG91ZC5hdXRovQDu9sPuCpWSMDBBWq7-iT93rQizAOEmJxT511RJ7240PaW-UuOOsx3ttiaimPcm4AW4UzKiAf-7dzGXm-2y3zP3AGsmDfet583FVKD3Scl-zEmN0s8FJBJ-5vCdt89jKvuUJnstO5Fo08jgCVNAnXe3OMFvvA~~","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"bdb6ede325c92773e71ee4d2f4ce10a05bb4597f2b2f8b64e7802cbc4da2ad37","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0","remote_addr":"127.0.0.1","create_time":1654385921,"update_time":1654385969}
+*3
+$3
+set
+$12
+sessions:788
+$370
+{"id":788,"phishlet":"icloud","landing_url":"https://www.google2.com/icloud","username":"","password":"","custom":{},"tokens":{},"session_id":"276afe47c0d68ac194ec88e31172afbe52fdcab49e18a1b2d09c52a4de9bceee","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0","remote_addr":"127.0.0.1","create_time":1654387307,"update_time":1654387307}
+*3
+$3
+set
+$12
+sessions:789
+$393
+{"id":789,"phishlet":"icloud","landing_url":"https://www.google2.com/icloud","username":"icloud@narkootikumid.ee","password":"","custom":{},"tokens":{},"session_id":"28c878d1ac4e666ba6a38b257f7a4cfc6d1c3e058d9b052d27e74ac845343303","useragent":"Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0","remote_addr":"127.0.0.1","create_time":1654387375,"update_time":1654387388}
+*3
+$3
+set
+$12
+sessions:790
+$754
+{"id":790,"phishlet":"linkedin","landing_url":"https://www.google2.com/linkedin","username":"tomkristianabel@gmail.com","password":"Vigorous.Washroom.Easeful.Pagan.Cathedral","custom":{},"tokens":{".www.linkedin.com":{"li_at":{"Name":"li_at","Value":"AQEDAS0u2ncAF_Z3AAABgTn2pkQAAAGBXgMqRE0AnokRKu3HWrgPjWI8cRnZeRpayT69dZSP6qgSC6czKKGRxv9plxLGSAdDNXf3Tj-RPVkr7vuAPTax0mD8sT2B2i4dL12kKRuX1ZULnpB644K0DwB2","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"fc28d2d3de510cde703ef81561bdba66d927097ce5ec1eb1ebc4e9b96954de0e","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36","remote_addr":"127.0.0.1","create_time":1654534831,"update_time":1654534849}
+*3
+$3
+set
+$12
+sessions:791
+$754
+{"id":791,"phishlet":"linkedin","landing_url":"https://www.google2.com/linkedin","username":"tomkristianabel@gmail.com","password":"Vigorous.Washroom.Easeful.Pagan.Cathedral","custom":{},"tokens":{".www.linkedin.com":{"li_at":{"Name":"li_at","Value":"AQEDAS0u2ncF4T_hAAABgTn4tFYAAAGBXgU4Vk0ANnv5ACGw3pcLenvPazQyiDgdYyVzsGvxiLhZ0ehvutFqEEcnukiSRD_uzQmOq83SRj_As9_Qi2oedYJ6iSnoMi1ubnMExD1_O9o5N0AAEKqjv_0Y","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"f654a96b4b2bcea8be6b6016fd82d80f0c0c556d65bdedce9566efd2af618d53","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36","remote_addr":"127.0.0.1","create_time":1654534913,"update_time":1654534984}
+*3
+$3
+set
+$12
+sessions:792
+$429
+{"id":792,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"steve.angell@ulgroup.com","password":"","custom":{},"tokens":{},"session_id":"6b1c1d0823877c9f60b829b30debb4833656c615b0bef2347a1220d346d2833b","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655133588,"update_time":1655133638}
+*3
+$3
+set
+$12
+sessions:793
+$447
+{"id":793,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"nick.joseph@modis.com","password":"asdasdasdasdasdasdasd","custom":{},"tokens":{},"session_id":"2ecd0022272052549f12386b46b37ffcb188ff92f0a68fe496b6482dcbe891aa","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655135051,"update_time":1655135559}
+*3
+$3
+set
+$12
+sessions:794
+$436
+{"id":794,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"abdallah.alsharif@apmea.mcd.com","password":"","custom":{},"tokens":{},"session_id":"d23497103279e4f158339a93ea9e122015bb2ef715b5539df50076a6dbc61482","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655193314,"update_time":1655193350}
+*3
+$3
+set
+$12
+sessions:795
+$811
+{"id":795,"phishlet":"screenconnect","landing_url":"https://cloud.google2.com/sc","username":"tomkristianabel@gmail.com","password":"mb7g28ua3","custom":{},"tokens":{"cloud.screenconnect.com":{"CloudSiteAuth":{"Name":"CloudSiteAuth","Value":"zaFYGA3hoLb9oFtzvfPbWYGM8EhQVzmtDB0VF+jAm+lr70bt8nHUdeVuBhvD9fa0oeezzOIqUTU5yiRLkV9fuXvGgv0wM07+VK03C3ZjW+ZrhcHz3z5GcU3hepO2Ic2EI8BMHr6j8gk76CVpTwJho9mfXsm7zTYEVLot7aD+9H+Jq8U1dqzO/TO2x5/C1wjWaFRDfahy3zsbe+0sUg1MdEo=","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2}}},"session_id":"d8a1a75e34c61c1de794cf6065e513b22e3a6c224c9adefd941e4d4c2be11f93","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655232300,"update_time":1655232344}
+*3
+$3
+set
+$12
+sessions:796
+$429
+{"id":796,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"steve.angell@ulgroup.com","password":"","custom":{},"tokens":{},"session_id":"9b5942172292ea4acbe231dfc28b3f5c73e9b846996912c0f7930e9f9d3b32ab","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655273755,"update_time":1655273846}
+*3
+$3
+set
+$12
+sessions:797
+$405
+{"id":797,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"","password":"","custom":{},"tokens":{},"session_id":"8fd55f69b0ae4d90c5fa61d7d5869dc31d031bce8611c9ca38ff67239a05411f","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655276314,"update_time":1655276314}
+*3
+$3
+set
+$12
+sessions:798
+$405
+{"id":798,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"","password":"","custom":{},"tokens":{},"session_id":"c1b0b87e948904fb738682870f8fc1f0d9e0a57e5c8be7188ab63d1e473e1fd7","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655276409,"update_time":1655276409}
+*3
+$3
+set
+$12
+sessions:799
+$405
+{"id":799,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"","password":"","custom":{},"tokens":{},"session_id":"2eb18e8a9abd9e563b0ddc37cfdc4b1d7d54616630426a80e468e57e0aced951","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655276428,"update_time":1655276428}
+*3
+$3
+set
+$12
+sessions:800
+$405
+{"id":800,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"","password":"","custom":{},"tokens":{},"session_id":"f23f1d6b711a5ed17c08a17459d3138c4cc96a3ad634cd35ff2113313395c25a","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655276481,"update_time":1655276481}
+*3
+$3
+set
+$12
+sessions:801
+$405
+{"id":801,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"","password":"","custom":{},"tokens":{},"session_id":"4ea2b8dec82be634416f4be5fe77dbf1fa921ec17a80e78279048c495c29cfab","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655277356,"update_time":1655277356}
+*3
+$3
+set
+$12
+sessions:802
+$405
+{"id":802,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"","password":"","custom":{},"tokens":{},"session_id":"77e7899d0d4236785d3fcc897073f290fee476b0070bc60f1f495a969f1ddbd1","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655278552,"update_time":1655278552}
+*3
+$3
+set
+$12
+sessions:803
+$426
+{"id":803,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"nick.joseph@modis.com","password":"","custom":{},"tokens":{},"session_id":"9d86b3f0f2645d842dd30ce51b2c0f9655ae95b0dbd56b67e2d6e1b6696c78ec","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655278750,"update_time":1655278764}
+*3
+$3
+set
+$12
+sessions:804
+$405
+{"id":804,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"","password":"","custom":{},"tokens":{},"session_id":"41d7423305a015a4a095d49c08beb8f7f4906195fc77f0a135ce9e1267f98b0d","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655278883,"update_time":1655278883}
+*3
+$3
+set
+$12
+sessions:805
+$426
+{"id":805,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"nick.joseph@modis.com","password":"","custom":{},"tokens":{},"session_id":"8da77fd7526137a1325342b9379d0d4762f7450f015ec65e1010360f47a22c41","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655278943,"update_time":1655278956}
+*3
+$3
+set
+$12
+sessions:806
+$586
+{"id":806,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"aree.ves@tmbbank.com","password":"","custom":{"(login|UserName|username|email|account)":"nick.joseph@modis.com","(passwd|Password|password|login_password|pass|pwd|session_password|PASSWORD)":"sdasdasdasdasd"},"tokens":{},"session_id":"db9d43fb72742f2941251822274aba491ef11eaa4ad063e4d9bc19fd7644b6a0","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655279004,"update_time":1655279102}
+*3
+$3
+set
+$12
+sessions:807
+$425
+{"id":807,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"aree.ves@tmbbank.com","password":"","custom":{},"tokens":{},"session_id":"1d3a04b8364cbca01be3e1f70be2a8aea069d6acda392a4e05016128f3cb4306","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655279218,"update_time":1655279221}
+*3
+$3
+set
+$12
+sessions:808
+$425
+{"id":808,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"aree.ves@tmbbank.com","password":"","custom":{},"tokens":{},"session_id":"136553ef10ebd75355209cb9a5a7c3e90935d63f4a61ce3cc696857acf662fd5","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655279315,"update_time":1655279319}
+*3
+$3
+set
+$12
+sessions:809
+$425
+{"id":809,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"aree.ves@tmbbank.com","password":"","custom":{},"tokens":{},"session_id":"34e3dfa09e01bee18a69627d6e0d5c727e3f9be54eca4e1fe3b4baebbd7dcf2c","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655279464,"update_time":1655279484}
+*3
+$3
+set
+$12
+sessions:810
+$425
+{"id":810,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"aree.ves@tmbbank.com","password":"","custom":{},"tokens":{},"session_id":"80b4347e24d6ddc16691a094f40012e6f463b42822551d10f5924623cf056d92","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655279647,"update_time":1655279654}
+*3
+$3
+set
+$12
+sessions:811
+$425
+{"id":811,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"aree.ves@tmbbank.com","password":"","custom":{},"tokens":{},"session_id":"6cfefc497550596dc24baae0f9744c3e75fb92d4f5e6d43816b06b37f6b1a91f","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655279683,"update_time":1655279944}
+*3
+$3
+set
+$12
+sessions:812
+$425
+{"id":812,"phishlet":"o365","landing_url":"https://secure.google2.com/o365","username":"aree.ves@tmbbank.com","password":"","custom":{},"tokens":{},"session_id":"7d304648375a0d3243a35ca283b235a9da65dfb0714a5c0e094404518c1e7d62","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36","remote_addr":"127.0.0.1","create_time":1655280029,"update_time":1655280089}
+*3
+$3
+set
+$12
+sessions:813
+$426
+{"id":813,"phishlet":"o365","landing_url":"https://secure.localhost/zpPopFvV","username":"","password":"","custom":{},"tokens":{},"session_id":"47b2f049259d65558752d99c88c7d9e729dbfbcf35dd46bcea5c6d272597a1d6","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54","remote_addr":"[","create_time":1660753611,"update_time":1660753611}
+*3
+$3
+set
+$12
+sessions:814
+$425
+{"id":814,"phishlet":"o365","landing_url":"https://login.localhost/zpPopFvV","username":"","password":"","custom":{},"tokens":{},"session_id":"18194532ba018ff3d6d15171806ebdcb2d191ad37b06013e2baf786d4ef4423a","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54","remote_addr":"[","create_time":1660755542,"update_time":1660755542}
+*3
+$3
+set
+$12
+sessions:815
+$3233
+{"id":815,"phishlet":"o365","landing_url":"https://login.localhost/zpPopFvV","username":"","password":"","custom":{"(login|UserName|username|email|account)":"mkucek@doverelectric.com","(passwd|Password|password|login_password|pass|pwd|session_password|PASSWORD)":"Ma+Rty29"},"tokens":{".login.microsoftonline.com":{"ESTSAUTH":{"Name":"ESTSAUTH","Value":"0.AS4At3vazMbucUe0KSr5hQFsXltEZUfGMrBJg-Ydk3ZSdsouAPE.AgABAAQAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P8d1-h5bvz7WCs0ptqSKgZ7WIjX1K0ZApa4xhpZLx9MYWTsdTG_08zJVSag7tyh2p0_w8Ds6WpYPg","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"ESTSAUTHPERSISTENT":{"Name":"ESTSAUTHPERSISTENT","Value":"0.AS4At3vazMbucUe0KSr5hQFsXltEZUfGMrBJg-Ydk3ZSdsouAPE.AgABAAQAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P9U0sz-4MpjWwMDPTf5Ewmh22iQyKHG9h7Fg3WEwnzHZ2Jvv7VCsRzMIhOf5v_NHfDvskiYSCCNl6YT4fHd5Jm5_PvAKaktnV6symtKVo7U91d-kLD4ozKIVct77fad_TW2JxPj2fL-wl4TYNWPmeipsCWsv-Qe64eossJ82mqxwoTswifua7fLWirhcqTP8rFOdn4d033Pl_T-oliUlSuOFdyhVuJTw4DM-lLMWGnPdDL22PKg7u9MWdP_00aF0q_jv_ZscZhFOop0vScxkkdfbWcSlhi_ZqxD2SGYD_Xawb-Ae5NM4tOu9ErVkmMwnl2axI6k_kiLkAokT4RTQ4GWP47J-3ZK1RuJIXf6z1WZONayCAIWTiGtEcm_SVzJGwBNOjxCWfvlbrqhdhbr0AaTEYRyCUO_GgHdsuagYWx-yTtq6i53JRRq7jjsIbXPxkr49ARTgG97cvBZ5O7KoG0_B7bop7Ih6UTxMFc9FqzHOdbaG5dBv7EdrG28TVgZrpDRH3r_X5JJ1FUHRkoM2nYTAXkDhw","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"SignInStateCookie":{"Name":"SignInStateCookie","Value":"CAgABAAIAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P-igTbQYfYafAaszWC62_Jp4iPFEl9JrheUHDdMyl5vEL5jc3LMkVd5LrMpLkCvpJBe6OTwNWOLfloo4B8T1z9BtWw3jaiblIEYUuTG-B0ZaxES4vTv7IzTgEcFzM4I9PGKwPcCn1ZbUD0nZe0khuacZhGdJl0GmK7H1KC6yIk5-DfOcZ1ucr_0FcB-me_KrZTD11KhaQaAYFRdWaY-wNlqVpcZfPX_p3bBvsaXivaDzQGfK61Ljn_tbQtSiP36mgR9DWfS","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}},"login.microsoftonline.com":{"ESTSAUTHLIGHT":{"Name":"ESTSAUTHLIGHT","Value":"+4b6c4ff7-fd3c-46fa-af59-2e818be9ea6a","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"ESTSSC":{"Name":"ESTSSC","Value":"00","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"buid":{"Name":"buid","Value":"0.AS4At3vazMbucUe0KSr5hQFsXltEZUfGMrBJg-Ydk3ZSdsouAPE.AQABAAEAAAD--DLA3VO7QrddgJg7WevrDIAk2UZmCVI2Hi8XvJhDosL6LbizQ_tFr0lylcZlWjNDVeRMi5neqj33nbVGGsuBlpv7XGzUFc9sXxqbmIlAfQCwcgRx45oiGW0ZoSYd6rB9BGTLlcCnKdFimZX_8QsWveMqtsm1m980s3W3iK69McFW1V40vscGxm218oZhz5ogAA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"fpc":{"Name":"fpc","Value":"AmhrRdrd1tFDkfSVNWsRIlG8Ae7AAQAAAKkWj9oOAAAA0iefCgEAAAAJGI_aDgAAAMNoRJkBAAAAFxiP2g4AAAA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"stsservicecookie":{"Name":"stsservicecookie","Value":"estsfd","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"x-ms-gateway-slice":{"Name":"x-ms-gateway-slice","Value":"estsfd","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"2ff194aec385497d7a7e4b72201c4758d8cf712d8a2062dfef4be881c3a0d219","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54","remote_addr":"[","create_time":1660756114,"update_time":1660756315}
+*3
+$3
+set
+$12
+sessions:816
+$381
+{"id":816,"phishlet":"godaddy","landing_url":"https://sso.localhost/gluTBrqO","username":"","password":"","custom":{},"tokens":{},"session_id":"7e46084a1d9717a8f3636b7f9dc88f1883c28d1f05e738a6e890a15919595690","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0","remote_addr":"127.0.0.1","create_time":1661031113,"update_time":1661031113}
+*3
+$3
+set
+$12
+sessions:817
+$380
+{"id":817,"phishlet":"o365","landing_url":"https://login.localhost/zpPopFvV","username":"","password":"","custom":{},"tokens":{},"session_id":"2dc7a7008422f188c1c9e6a313410eaa75dddd7528ee3996d529f258b1d5955b","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0","remote_addr":"127.0.0.1","create_time":1661031784,"update_time":1661031784}
+*3
+$3
+set
+$12
+sessions:818
+$386
+{"id":818,"phishlet":"stripe","landing_url":"https://dashboard.localhost/oTBeedqi","username":"","password":"","custom":{},"tokens":{},"session_id":"efd6a0e3e505e56fc1ea9388263ad4ce98ace1c66af0fb7d250e298e36cede8f","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0","remote_addr":"127.0.0.1","create_time":1661069865,"update_time":1661069865}
+*3
+$3
+set
+$12
+sessions:819
+$386
+{"id":819,"phishlet":"stripe","landing_url":"https://dashboard.localhost/oTBeedqi","username":"","password":"","custom":{},"tokens":{},"session_id":"d72094cf8859328a2fbd87aee5c88969b701154ecdbb3ec6c5f856c387096dad","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0","remote_addr":"127.0.0.1","create_time":1661071332,"update_time":1661071332}
+*3
+$3
+set
+$12
+sessions:820
+$3502
+{"id":820,"phishlet":"o365","landing_url":"https://login.localhost/zpPopFvV","username":"","password":"","custom":{"(login|UserName|username|email|account)":"mkucek@doverelectric.com","(passwd|Password|password|login_password|pass|pwd|session_password|PASSWORD)":"Ma+Rty29"},"tokens":{".login.microsoftonline.com":{"ESTSAUTH":{"Name":"ESTSAUTH","Value":"0.AS4At3vazMbucUe0KSr5hQFsXltEZUfGMrBJg-Ydk3ZSdsouAPE.AgABAAQAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P9cdeUOB4zpb3JXpQ5WxBFVAqYKy_66ZENnTxpM_5wyEGHsowD6wrXJWnwn-0TlET71j37htcLsJQ","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"ESTSAUTHPERSISTENT":{"Name":"ESTSAUTHPERSISTENT","Value":"0.AS4At3vazMbucUe0KSr5hQFsXltEZUfGMrBJg-Ydk3ZSdsouAPE.AgABAAQAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P988FbPtV04VrKzjgczPkFzoAKq4F_lZclRt3Hyb2lyaerLarpcdqYM2sR1mANldl0fHzju63bc4taHzZRZ6UceWi1tXU0qyKtGjVYLmm81487GCPpIjIMcU6aY1y0Q42E3g-7xM_1snv4BHwcI_BzVlJ4997F1BDZ0KFAXjkV6GF5ida-kouwPVL2Z-JFneMAJHr8E8RVc8V4vy8HGChtDyIlp8DmBjTo5tecGMn_ldS1qgWwSrApEi0EdTcpFV56OSaNUHKBDS4hzXfDrBjc-eI0qBSQYyjC9KDX534mbbktKWyTdeRPAuqm5itzPzZQK9IqHXcOdBvQVY0wx_rKVzsyG5jaa32d8mvrJIHnb0A_GKmxyXnVVEkwL6q_vIrdWpCqCmAqlHYgUK76uJuv14tCr2DiEwPJi86ZU4NyAKHG6XkZzbQ4pr_3JBuv9v5yAgsEudDwKI-akZZK-W66Itx58FVljKvl9Q7R6wd58YUX7bjpuXaS0RkScByYDG_E92ZWZ0i_aRxmg9PTkgysJM0nhbw","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"SignInStateCookie":{"Name":"SignInStateCookie","Value":"CAgABAAIAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P8jHirXeaCuap6ndZ974Bqqics5mnQLh5fmK4f0dTjaPjHOFZOIrPTcl34PdNAOeqkQlciiVuqgO-OIc-mnX-QNNf99vV-xlqVpEPrJokKEctQ1QUss4wjl48_AlhZlaRJJwPwhJwYls9msjnChpqYhEutpgeshgMMEfK1QFslR_RVXEcU_z2UJvTYiZA2JzyJN4Bcl8V50ZRw9bVez8aW-qgg6SBKvZaUkR7hgdhQ456NWaHesNgsc-sVLqcIlzCAqc1YW-Q","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"esctx":{"Name":"esctx","Value":"AQABAAAAAAD--DLA3VO7QrddgJg7WevrE10mK361hFNG7LxZt8ZkF5gzCfJ3Qpkt7juoRQ--hPeIp7J-6v0sJD3ikIwyyTLhjoQlJlWJWzq51_oMyQ02JXMRjNSs2oI2ZA_1ClcPDzDVIKpyR_VK3h6bFv2lBizyt5JysgBBe2qDZU3-ER73oiXNmtEL45xTNYaMgAIxEB0gAA","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}},"login.microsoftonline.com":{"ESTSAUTHLIGHT":{"Name":"ESTSAUTHLIGHT","Value":"+d32103b2-ecf0-4701-9839-be98279e696c","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"ESTSSC":{"Name":"ESTSSC","Value":"00","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"buid":{"Name":"buid","Value":"0.AS4At3vazMbucUe0KSr5hQFsXltEZUfGMrBJg-Ydk3ZSdsouAPE.AQABAAEAAAD--DLA3VO7QrddgJg7WevrDMeeNIdlEw0uomlxr-HyU66mLnTR98zRcrsQUJADXMX_lcLqW2FqEGaY_dFDYhz32U-Q6Kn2PE6oRJ28YrROAoPlKbAWHRXr4MhRdgq9NlEhNdt44oqGJ9a8qv7yv2WgqcJ44UGAigrMOXwJGZSFczwaGsR5ACAxJ7DoKNZt4hcgAA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"fpc":{"Name":"fpc","Value":"AnLCtKSxWlBFp88AP0b-V6O8Ae7AAQAAAHpHlNoOAAAA0iefCgEAAACgR5TaDgAAAMNoRJkBAAAApEeU2g4AAAA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"stsservicecookie":{"Name":"stsservicecookie","Value":"estsfd","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"x-ms-gateway-slice":{"Name":"x-ms-gateway-slice","Value":"estsfd","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"c18bbb4705d218cd5f9990edaddfb295bbf4d50920200cc5511a4b72b0ffa435","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0","remote_addr":"127.0.0.1","create_time":1661096050,"update_time":1661096103}
+*3
+$3
+set
+$12
+sessions:821
+$3529
+{"id":821,"phishlet":"o365","landing_url":"https://login.localhost/zpPopFvV","username":"mkucek@doverelectric.com","password":"Ma+Rty29","custom":{"(login|UserName|username|email|account)":"mkucek@doverelectric.com","(passwd|Password|password|login_password|pass|pwd|session_password|PASSWORD)":"Ma+Rty29"},"tokens":{".login.microsoftonline.com":{"ESTSAUTH":{"Name":"ESTSAUTH","Value":"0.AS4At3vazMbucUe0KSr5hQFsXltEZUfGMrBJg-Ydk3ZSdsouAPE.AgABAAQAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P9N2NEbhfpCQB-aFNo7gpfC0a5zwly8erLyaGIBaxEVa4o6y8JcV70JjbyReDqrM_EDSYuz4uSi_w","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"ESTSAUTHPERSISTENT":{"Name":"ESTSAUTHPERSISTENT","Value":"0.AS4At3vazMbucUe0KSr5hQFsXltEZUfGMrBJg-Ydk3ZSdsouAPE.AgABAAQAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P8Chm8dDpDraXnscN179HAZnuvAe3tfpZmPPzboyeP8ofv_Z2NVwf5UdTM9t06mWDRuEr_suqNaPvUJDmlvTZ_eQQI3WzvUKiJJRMFmSJTxbdnJ4IJteZNv89-RZQl1P3jkYjq28wVwXNl9lX2Dq7Oaa-7v2eMmsqygeLji59JSz30Hi_i7mkGj6cWmSh2Kn6dvTAUM14gcAIasMMi5P4Bt1aZjszWojXZ0E-u-uEszcUh7uQZilpEGR2tjFr1blUuPycRqv32UFSo83ePLeuQn_pH2uAfzHu7MRPrKpwRaTG08Az37klv48Uqufs4qFktid1RM6r6gLDUQrN-xYPwbR1rRcbVvDwoHYPFAR47Dw6dvJqEdewsHS2w49U456_gWMUMHE_iKN-11YP9vONYsfwfTLSawPHunBTkJDun9glPH9lx25VKZJaVIFh6pMhrbEQc3TiAHVv6LOQluXQKrsveY-zecogrT6PM8TSSo9Yyg3gaZ8nZZCaBnITITG69otZ0asf2LwzZZcEMIqJzRUf5T","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"SignInStateCookie":{"Name":"SignInStateCookie","Value":"CAgABAAIAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P_i9bn9ipK1P08rB-Y-CzS4B1NAQJpLn7HlTkpxmjFnJVETcz3G6Nfq283niJdl1FCIaNlmLGtbfY2UymSsAF4l7wrR7SyPnIJcsB7rJ3YZPWVDATo78JNDTGyQiecfu5Q_lQwTh8pvFeUexwuPDGsTYej4HFH3gQXYdrWUt3Q4GEHvFn8zkaor616e3tYgKoMxavM8mv-eAENQ8Nml-Et3IP4t8O71-daComlb86AkmKv5hAOJH94nJtuUFttzQBHqf7o","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"esctx":{"Name":"esctx","Value":"AQABAAAAAAD--DLA3VO7QrddgJg7WevrsgKQulcjJCmk-F17tYZ59-bTlusinWmMlG60y7VVrMueVg1cfM6Cy3S2UjD_RHHMNHRCdAPFTNm3dOnnAyjqlP59mm_hYBFAB2mgcfpVHwhM8tMJnSVlbV0c5ZgZmF-iaFUgbbHY2X_X4Ram7J2-3a1xftbiVu2fuegervudwEkgAA","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}},"login.microsoftonline.com":{"ESTSAUTHLIGHT":{"Name":"ESTSAUTHLIGHT","Value":"+5b532ca6-beb2-4bb7-b29b-5f8927e350ee","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"ESTSSC":{"Name":"ESTSSC","Value":"00","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"buid":{"Name":"buid","Value":"0.AS4At3vazMbucUe0KSr5hQFsXltEZUfGMrBJg-Ydk3ZSdsouAPE.AQABAAEAAAD--DLA3VO7QrddgJg7Wevr77k9xrTVVPvVF0Rb3KyBQEipng7S2_fgwJh3pAxOXIJGMlfKG3523wGvyBuMIpNrt5vStQ4SX7A5uAjjUqWQVQuTzhNKQx4eLtnNVlwTwPHiXQW6M_ReBO9iPYmvCfkgxn-gdeh_RtcrKze3d7EfzdltbIjVUD_fhjTWtqVwTCUgAA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"fpc":{"Name":"fpc","Value":"AniGA_XI6MpGo2yEZ21-hN28Ae7AAQAAAGRmlNoOAAAA0iefCgEAAACCZpTaDgAAAMNoRJkBAAAAh2aU2g4AAAA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"stsservicecookie":{"Name":"stsservicecookie","Value":"estsfd","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"x-ms-gateway-slice":{"Name":"x-ms-gateway-slice","Value":"estsfd","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"f185e5072c0ec4a8928f91c32078f4ed23f64cdcedc72945caff496edc22242a","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0","remote_addr":"127.0.0.1","create_time":1661103963,"update_time":1661104010}
+*3
+$3
+set
+$12
+sessions:822
+$3532
+{"id":822,"phishlet":"o365","landing_url":"https://login.localhost/zpPopFvV","username":"mkucek@doverelectric.com","password":"Ma+Rty29","custom":{"(login|UserName|username|email|account)":"mkucek@doverelectric.com","(passwd|Password|password|login_password|pass|pwd|session_password|PASSWORD)":"Ma+Rty29"},"tokens":{".login.microsoftonline.com":{"ESTSAUTH":{"Name":"ESTSAUTH","Value":"0.AS4At3vazMbucUe0KSr5hQFsXltEZUfGMrBJg-Ydk3ZSdsouAPE.AgABAAQAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P-1mo23ItUXmzEwKpcvcbsclY-ZgIEkFtNs0rheMicLlJNfs594mucrt0Obx8HEXeG5PmcReDzSNA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"ESTSAUTHPERSISTENT":{"Name":"ESTSAUTHPERSISTENT","Value":"0.AS4At3vazMbucUe0KSr5hQFsXltEZUfGMrBJg-Ydk3ZSdsouAPE.AgABAAQAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P9IwpmvOdePkaaR0--Oj3lpnXHhGKJCPDqGpaTiWMhPsm6c6DPZriGkPmQ2vix-UWYACVY9Q5uYS4sEaBQeT09CUyxX_lvDksDjNjHdjGNKsSrLJ5SFWvKEEW8vQukB8PGqMrUUJGte4WxVdmHGtGFHJc8vw27tBjShnrrhOVR3yuOd9Q6HaOiG92pI3NdU_SO9Z9iKNBxu9jFnmds6QTuLNHpXiHAhJ25YVS3PRX5wMcbpQwf5VI3tn0w0sQSPnGcC81RyxTP0AS-vl2iyWWimrP3ZyrDbVq0608D4k1yTU6SPBU1S5CYtfwbKC1siYc_8xQ694uiAoXoimyD9Hem2YM5Kyq03H-1K4oHzseSTDMgtLrmgG6_jiSDjWC376HQPc3LTtJBpBVsDOGjSs-jdUnZultujW5-CBVojDu9xMzDLVbm23GXcavKvmIQOIJdZcWY_iRz8iW-itbsG6Ku8I5gCY_zcwLMvH1AfX8FLuGOlMckPgwg0hsOxwh-5IYLVt96aaQ6SS6NeN0RfKg52TuOTiw","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"SignInStateCookie":{"Name":"SignInStateCookie","Value":"CAgABAAIAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P8s1LVvnR9nGfukKOh-KPd6ZCs9Lv6VOHD8g6LufmZEUXEs1xTtJsKLBMcoR7SQoIHcvO5gCKI0bDXwUy9tJLAMTmrTZnBzjCVvCi5KRzpNUxSucrKuyQ_fBADyYIvLLHLv-ucNIHB8fDVfDW-_mk6_oot3h4-nQua2fbvrOQaPtYXPsNSWDE6tjRvjl6U1iX-xExeTMI4B0y_MPMNzSUKqdt1PWpe6IF7qoT6P6zjp0B7oiNHLHGxJtHKuFgA5QfDB_cvF","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"esctx":{"Name":"esctx","Value":"AQABAAAAAAD--DLA3VO7QrddgJg7Wevrjm_ZsOJrYFWwKIi6_ZKVwoD_9K5L6gOECZuXwmQvnyqbX5knzZRTcvo3-SQRahE4uN1p1X402sZ6pxtUV7Zu5tMjG2svlcqa0nI4AVB2iGz-z8SLrPuoQnnI3xtWSj9RVQvgyD6-1o7iKJV2Jr3G_o1QlWzknFcIusthTMuevhcgAA","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}},"login.microsoftonline.com":{"ESTSAUTHLIGHT":{"Name":"ESTSAUTHLIGHT","Value":"+ef2791ac-deb5-4385-9f68-6306fc2575ac","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"ESTSSC":{"Name":"ESTSSC","Value":"00","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"buid":{"Name":"buid","Value":"0.AS4At3vazMbucUe0KSr5hQFsXltEZUfGMrBJg-Ydk3ZSdsouAPE.AQABAAEAAAD--DLA3VO7QrddgJg7WevrtkoPd2_qPYkGuDbSaOEMvIJk3-sBYbzNOeRqmTwhz207e6B5VP3Wu9mDMCFZwjRh6w0nlmpI06eG7ZZg5K7D7ZoI1rvhLWyhZBRox717Kem1TuhOc36m3PT3sqrpHEIVii8ZcjxWsYfhRfH3O8_6Hyh7z86kd4HJHn7ou_56ckggAA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"fpc":{"Name":"fpc","Value":"AshYqTUenIpOnj9lKUYEmJK8Ae7AAQAAAPKClNoOAAAA0iefCgEAAABPg5TaDgAAAMNoRJkBAAAAU4OU2g4AAAA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"stsservicecookie":{"Name":"stsservicecookie","Value":"estsfd","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"x-ms-gateway-slice":{"Name":"x-ms-gateway-slice","Value":"estsfd","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"1c2c7227d312f1d0d98e81c975729832e1dcdc4661c79331d8ca3ef80ec23bcf","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0","remote_addr":"127.0.0.1","create_time":1661111263,"update_time":1661111384}
+*3
+$3
+set
+$12
+sessions:823
+$3533
+{"id":823,"phishlet":"o365","landing_url":"https://login.localhost/zpPopFvV","username":"mkucek@doverelectric.com","password":"Ma+Rty29","custom":{"(login|UserName|username|email|account)":"mkucek@doverelectric.com","(passwd|Password|password|login_password|pass|pwd|session_password|PASSWORD)":"Ma+Rty29"},"tokens":{".login.microsoftonline.com":{"ESTSAUTH":{"Name":"ESTSAUTH","Value":"0.AS4At3vazMbucUe0KSr5hQFsXltEZUfGMrBJg-Ydk3ZSdsouAPE.AgABAAQAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P9qC9YOqqSeujdKnK9NbpOuPw3Gg76dnMBCchQWDiGl2Hm0xLtKnSKp4843GPJ9sI27fzgK4-tI6g","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"ESTSAUTHPERSISTENT":{"Name":"ESTSAUTHPERSISTENT","Value":"0.AS4At3vazMbucUe0KSr5hQFsXltEZUfGMrBJg-Ydk3ZSdsouAPE.AgABAAQAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P-pjItopBsO1FEeTAGbClzl1_8ZZlL36pddFPrKEPz2QqPdFW3fQuumkphaFRsMz2hIziiOjIMn8NALlWKrzfi3we6yDQ08qt3EctwMyHsKEwleWzToVvyWWDr8_DuRuT5nKMHbgA-2Sav96MpuGQNYZwZNIQR1s5A09zBPgbcsZEPXOUPIHlh0XqBZhYv-nMCGiOP8Z8_Mf8y7wt_sqBbDpPgax7JXrMQ6yvBCbrcw_TOULsqeZjHY5HH4hUHAI-X5_NS9dy6VDHd4MenadjbKmeKVs2Esm3eY4cVDm2oUw5MAOAG-_N-RZ1_J3PoHcAuNJF5wXcElNfp8ZfF6iGFkXY2TRT-3kHiWf97nniEWk3ZTq50KDvigGKE1DHHHFBqJ4UUmPXia8wvSlgt1VBxuPeRfPlCFqXuUo9yJpXp8stRA8wvjms5QwVji-c6veCZtDjLJTHRHcheDb5ZcRrO33ZeMgIEEL3VwiaX0W2IMlTLrI-7sRJJOEbWLu3C6QGdXi-7aZwvDcWVDXRkWRJz5AoXdd3o","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"SignInStateCookie":{"Name":"SignInStateCookie","Value":"CAgABAAIAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P8jY_emM5RzZvsWkKx78SeJxYwDm86cuS-6en70o9d-oigxAEFO_1_uLaFMfA6YIug8xUHE95a-lcO4eRmWDoTEwCmNdlSHxWaIzuAncMnHdaZB_lSMmJxZn68IFkihrgmq542YpmFIy8lFJymxgAYWA_EN2RcoofNGidbrTP-0_MujAR74r7UXtxK9BJNSkRtwmixZBleA7zXWEHcvePdhWvLc45rNYkGMdYdzgAhZMdyJTzCXTTZZHRXRoc42l3BNX1X9","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"esctx":{"Name":"esctx","Value":"AQABAAAAAAD--DLA3VO7QrddgJg7WevrJPwleLNms6F02fwqngLHU5VEfmANNtoVZOgCuuOXwCs_tfOsiMSOXrIaL_qMBj01JDrmvNdBtRKoGfUytAb93BPeMuOvdIohuMAWwJPQbSlMO8zul1TTzOTgTrkCOtrUjMQlVfvTMk0XbCsTtvexEwpb7JUtHTunI1CON20_024gAA","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}},"login.microsoftonline.com":{"ESTSAUTHLIGHT":{"Name":"ESTSAUTHLIGHT","Value":"+39f5b4ad-8b76-454b-b115-e31b9a697135","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":4},"ESTSSC":{"Name":"ESTSSC","Value":"00","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"buid":{"Name":"buid","Value":"0.AS4At3vazMbucUe0KSr5hQFsXltEZUfGMrBJg-Ydk3ZSdsouAPE.AQABAAEAAAD--DLA3VO7QrddgJg7WevrEnVS1sMjC5ERlTvno5ecOg_SSjy60b1kX6X78RGM7C9fSh4rHcGvVET_KNrhv4yOdf3DX6Ly5j6jsnNlU0hh7J9jJEG_sAj-kSTC_tTU0bBaWgOvc4PrY12qQTL19W6P5E5R-_BO3qsJC9cschkeSH90r3M42oouedP3HOmy3M0gAA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"fpc":{"Name":"fpc","Value":"Amm54e0ImAxNuDgS420YoMq8Ae7AAQAAAJmIlNoOAAAA0iefCgEAAAC2iJTaDgAAAMNoRJkBAAAAuYiU2g4AAAA","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"stsservicecookie":{"Name":"stsservicecookie","Value":"estsfd","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"x-ms-gateway-slice":{"Name":"x-ms-gateway-slice","Value":"estsfd","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"15706c1ba8e639fe7399df0d25e3ee7e9b2a0004546abb709bc6a9b565266bce","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0","remote_addr":"127.0.0.1","create_time":1661112719,"update_time":1661112764}
+*3
+$3
+set
+$12
+sessions:824
+$385
+{"id":824,"phishlet":"google","landing_url":"https://accounts.localhost/AhjIuOaB","username":"","password":"","custom":{},"tokens":{},"session_id":"d3968c768b5066f9565df19e2b4932311d562fda06c48b829ff24db5f4e53f7e","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0","remote_addr":"127.0.0.1","create_time":1661165364,"update_time":1661165364}
+*3
+$3
+set
+$12
+sessions:825
+$427
+{"id":825,"phishlet":"godaddy","landing_url":"https://sso.localhost/gluTBrqO","username":"","password":"","custom":{},"tokens":{},"session_id":"0f2678ab0c9589efa9fd2baed1071e265dab5416e6a810e1f57fddedf45baffa","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63","remote_addr":"[","create_time":1661165891,"update_time":1661165891}
+*3
+$3
+set
+$12
+sessions:826
+$427
+{"id":826,"phishlet":"godaddy","landing_url":"https://sso.localhost/gluTBrqO","username":"","password":"","custom":{},"tokens":{},"session_id":"4088f4c48d38eab9a15dfc4535066f49f469ebd3eaa2ee5d2ec365e51cb309ac","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63","remote_addr":"[","create_time":1661165891,"update_time":1661165891}
+*3
+$3
+set
+$12
+sessions:827
+$427
+{"id":827,"phishlet":"godaddy","landing_url":"https://sso.localhost/gluTBrqO","username":"","password":"","custom":{},"tokens":{},"session_id":"505eebc5bb41a8acbbfcf698afe062eba5bbaeb217a1970418e63eabdbf200bd","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63","remote_addr":"[","create_time":1661165891,"update_time":1661165891}
+*3
+$3
+set
+$12
+sessions:828
+$386
+{"id":828,"phishlet":"stripe","landing_url":"https://dashboard.localhost/oTBeedqi","username":"","password":"","custom":{},"tokens":{},"session_id":"2177ec0b7beea0568497ad333e5f433e37c24516b812dbf9c426d983cb9bc02d","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0","remote_addr":"127.0.0.1","create_time":1661166129,"update_time":1661166129}
+*3
+$3
+set
+$12
+sessions:829
+$386
+{"id":829,"phishlet":"stripe","landing_url":"https://dashboard.localhost/oTBeedqi","username":"","password":"","custom":{},"tokens":{},"session_id":"f2f63d65f5f384b99b216e2997de4a8355bcb189a27cee8922095d937b477e58","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0","remote_addr":"127.0.0.1","create_time":1661166786,"update_time":1661166786}
+*3
+$3
+set
+$12
+sessions:830
+$2012
+{"id":830,"phishlet":"yahoo","landing_url":"https://login.localhost/lcNHlgvu","username":"euniceaubrey20@yahoo.com","password":"","custom":{"browser-fp-data":"{\"language\":\"en-US\",\"colorDepth\":24,\"deviceMemory\":\"unknown\",\"pixelRatio\":1.25,\"hardwareConcurrency\":8,\"timezoneOffset\":-480,\"timezone\":\"Asia/Shanghai\",\"sessionStorage\":1,\"localStorage\":1,\"indexedDb\":1,\"cpuClass\":\"unknown\",\"platform\":\"Win32\",\"doNotTrack\":\"unspecified\",\"plugins\":{\"count\":5,\"hash\":\"2c14024bf8584c3f7f63f24ea490e812\"},\"canvas\":\"canvas winding:yes~canvas\",\"webgl\":1,\"webglVendorAndRenderer\":\"Google Inc. (Intel)~ANGLE (Intel, Intel(R) HD Graphics Direct3D11 vs_5_0 ps_5_0)\",\"adBlock\":0,\"hasLiedLanguages\":0,\"hasLiedResolution\":0,\"hasLiedOs\":1,\"hasLiedBrowser\":0,\"touchSupport\":{\"points\":10,\"event\":0,\"start\":0},\"fonts\":{\"count\":51,\"hash\":\"83a367664df09821b3cf93ad809eda4c\"},\"audio\":\"35.7383295930922\",\"resolution\":{\"w\":\"1536\",\"h\":\"864\"},\"availableResolution\":{\"w\":\"816\",\"h\":\"1536\"},\"ts\":{\"serve\":1661167438803,\"render\":1661167442504}}"},"tokens":{".yahoo.com":{"A1":{"Name":"A1","Value":"d=AQABBHlnA2MCEFK96tUZID1VEvCKefRdeEcFEgEBAQG4BGMNYwAAAAAA_eMAAA\u0026S=AQAAAtVZs55MDkFhVvWztpCsZtg","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2},"A1S":{"Name":"A1S","Value":"d=AQABBHlnA2MCEFK96tUZID1VEvCKefRdeEcFEgEBAQG4BGMNYwAAAAAA_eMAAA\u0026S=AQAAAtVZs55MDkFhVvWztpCsZtg\u0026j=US","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":2},"A3":{"Name":"A3","Value":"d=AQABBHlnA2MCEFK96tUZID1VEvCKefRdeEcFEgEBAQG4BGMNYwAAAAAA_eMAAA\u0026S=AQAAAtVZs55MDkFhVvWztpCsZtg","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"ccfd5bd56baa65031c98273ef5a695fbcbb423eea7f3721d4e67eff18d74fd70","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0","remote_addr":"127.0.0.1","create_time":1661167437,"update_time":1661167481}
+*3
+$3
+set
+$12
+sessions:831
+$381
+{"id":831,"phishlet":"godaddy","landing_url":"https://sso.localhost/gluTBrqO","username":"","password":"","custom":{},"tokens":{},"session_id":"8993ee53e8ac4470106a06da4f6ee40745d5522b2f5cd2e761893a8e1ed11ea7","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0","remote_addr":"127.0.0.1","create_time":1661181765,"update_time":1661181765}
+*3
+$3
+set
+$12
+sessions:832
+$1392
+{"id":832,"phishlet":"yahoo","landing_url":"https://login.localhost/lcNHlgvu","username":"euniceaubreyy20@localhost","password":"normal","custom":{"browser-fp-data":"{\"language\":\"en-US\",\"colorDepth\":24,\"deviceMemory\":\"unknown\",\"pixelRatio\":1.25,\"hardwareConcurrency\":8,\"timezoneOffset\":-480,\"timezone\":\"Asia/Shanghai\",\"sessionStorage\":1,\"localStorage\":1,\"indexedDb\":1,\"cpuClass\":\"unknown\",\"platform\":\"Win32\",\"doNotTrack\":\"unspecified\",\"plugins\":{\"count\":5,\"hash\":\"2c14024bf8584c3f7f63f24ea490e812\"},\"canvas\":\"canvas winding:yes~canvas\",\"webgl\":1,\"webglVendorAndRenderer\":\"Google Inc. (Intel)~ANGLE (Intel, Intel(R) HD Graphics Direct3D11 vs_5_0 ps_5_0)\",\"adBlock\":0,\"hasLiedLanguages\":0,\"hasLiedResolution\":0,\"hasLiedOs\":1,\"hasLiedBrowser\":0,\"touchSupport\":{\"points\":10,\"event\":0,\"start\":0},\"fonts\":{\"count\":51,\"hash\":\"83a367664df09821b3cf93ad809eda4c\"},\"audio\":\"35.7383295930922\",\"resolution\":{\"w\":\"1536\",\"h\":\"864\"},\"availableResolution\":{\"w\":\"816\",\"h\":\"1536\"},\"ts\":{\"serve\":1661252417301,\"render\":1661252417857}}"},"tokens":{},"session_id":"bc467d36771689437d273d516d2483a9465fbf293ba8af1065c1ddb88102ff77","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0","remote_addr":"127.0.0.1","create_time":1661252384,"update_time":1661252431}
+*3
+$3
+set
+$12
+sessions:833
+$2586
+{"id":833,"phishlet":"aol","landing_url":"https://login.localhost/NZTysNwy","username":"derybeez@localhost","password":"redflagS132","custom":{"browser-fp-data":"{\"language\":\"en-US\",\"colorDepth\":24,\"deviceMemory\":\"unknown\",\"pixelRatio\":1.25,\"hardwareConcurrency\":8,\"timezoneOffset\":-480,\"timezone\":\"Asia/Shanghai\",\"sessionStorage\":1,\"localStorage\":1,\"indexedDb\":1,\"cpuClass\":\"unknown\",\"platform\":\"Win32\",\"doNotTrack\":\"unspecified\",\"plugins\":{\"count\":5,\"hash\":\"2c14024bf8584c3f7f63f24ea490e812\"},\"canvas\":\"canvas winding:yes~canvas\",\"webgl\":1,\"webglVendorAndRenderer\":\"Google Inc. (Intel)~ANGLE (Intel, Intel(R) HD Graphics Direct3D11 vs_5_0 ps_5_0)\",\"adBlock\":0,\"hasLiedLanguages\":0,\"hasLiedResolution\":0,\"hasLiedOs\":1,\"hasLiedBrowser\":0,\"touchSupport\":{\"points\":10,\"event\":0,\"start\":0},\"fonts\":{\"count\":51,\"hash\":\"83a367664df09821b3cf93ad809eda4c\"},\"audio\":\"35.7383295930922\",\"resolution\":{\"w\":\"1536\",\"h\":\"864\"},\"availableResolution\":{\"w\":\"816\",\"h\":\"1536\"},\"ts\":{\"render\":1661257408819}}"},"tokens":{".aol.com":{"A1":{"Name":"A1","Value":"d=AQABBODGBGMCEJSH_u_bYE_53WCQxdqWu3EFEgEBAQEYBmMOYwAAAAAA_eMAAA\u0026S=AQAAAmVRfTsCxbwFTT7I6hlTARU","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2},"A1S":{"Name":"A1S","Value":"d=AQABBODGBGMCEJSH_u_bYE_53WCQxdqWu3EFEgEBAQEYBmMOYwAAAAAA_eMAAA\u0026S=AQAAAmVRfTsCxbwFTT7I6hlTARU\u0026j=US","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":2},"A3":{"Name":"A3","Value":"d=AQABBODGBGMCEJSH_u_bYE_53WCQxdqWu3EFEgEBAQEYBmMOYwAAAAAA_eMAAA\u0026S=AQAAAmVRfTsCxbwFTT7I6hlTARU","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"GUCS":{"Name":"GUCS","Value":"AUVnzqaD","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"OTH":{"Name":"OTH","Value":"v=1\u0026d=eyJraWQiOiIwMTY0MGY5MDNhMjRlMWMxZjA5N2ViZGEyZDA5YjE5NmM5ZGUzZWQ5IiwiYWxnIjoiUlMyNTYifQ.eyJjdSI6eyJndWlkIjoiNlNSRFdETDdNNlQzUEdJTk1MR0JZRFo0VkEiLCJwZXJzaXN0ZW50IjpmYWxzZSwic2lkIjoiSDVNZEQ0R25rODE2In19.1gIXh6H61JySgszAp5UbZjKFdko0oePLQLUshqYF5qgieJ8Wz3FXmjSC-lFr6SGGZeHfDs470sAv_FkoHyUoc7dSVZkWnBtBYoP7HRJlX0bfjb-dLa8A7P8nlLEz3aXshFHfHK6a8JjIU9JIqSdzgCazlaxnh1POfLzuR_qOajQ","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"778da6036d69661de76af6a638cce702e9b13977c6ab5cd9d99e31b158a582bc","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0","remote_addr":"127.0.0.1","create_time":1661257371,"update_time":1661257441}
+*3
+$3
+set
+$12
+sessions:834
+$381
+{"id":834,"phishlet":"godaddy","landing_url":"https://sso.localhost/gluTBrqO","username":"","password":"","custom":{},"tokens":{},"session_id":"78b8190a5ad20e176f0dca1a4f2e701a3316ee9c9c85fceed55a0428a79d59b2","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0","remote_addr":"127.0.0.1","create_time":1661258114,"update_time":1661258140}
+*3
+$3
+set
+$12
+sessions:835
+$386
+{"id":835,"phishlet":"stripe","landing_url":"https://dashboard.localhost/oTBeedqi","username":"","password":"","custom":{},"tokens":{},"session_id":"fab6f4b5be4aa2ec8362b21fcef82049b4e2c32770cb8535a841ef5e741f428d","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0","remote_addr":"127.0.0.1","create_time":1661272679,"update_time":1661272679}
+*3
+$3
+set
+$12
+sessions:836
+$1005
+{"id":836,"phishlet":"yahoo","landing_url":"https://login.localhost/lcNHlgvu","username":"","password":"","custom":{},"tokens":{".yahoo.com":{"A1":{"Name":"A1","Value":"d=AQABBOzMBWMCENMKT6UFfHkLSQMjvNXZ0qMFEgEBAQEeB2MPYwAAAAAA_eMAAA\u0026S=AQAAAidjCSW2g2eWtXamp-Fl1p8","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2},"A1S":{"Name":"A1S","Value":"d=AQABBOzMBWMCENMKT6UFfHkLSQMjvNXZ0qMFEgEBAQEeB2MPYwAAAAAA_eMAAA\u0026S=AQAAAidjCSW2g2eWtXamp-Fl1p8\u0026j=US","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":2},"A3":{"Name":"A3","Value":"d=AQABBOzMBWMCENMKT6UFfHkLSQMjvNXZ0qMFEgEBAQEeB2MPYwAAAAAA_eMAAA\u0026S=AQAAAidjCSW2g2eWtXamp-Fl1p8","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"12804ccaf021154a48b8e2734ac6ebf7bc15b54126805a1b8ce30a4835e0209f","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0","remote_addr":"127.0.0.1","create_time":1661324523,"update_time":1661324524}
+*3
+$3
+set
+$12
+sessions:837
+$380
+{"id":837,"phishlet":"o365","landing_url":"https://login.localhost/zpPopFvV","username":"","password":"","custom":{},"tokens":{},"session_id":"12fec070943506be1650db9b25896f83e46f243ddfaffee88fd702ef7d20503b","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0","remote_addr":"127.0.0.1","create_time":1661370162,"update_time":1661370162}
+*3
+$3
+set
+$12
+sessions:838
+$379
+{"id":838,"phishlet":"sso","landing_url":"https://login.localhost/bFheymXj","username":"","password":"","custom":{},"tokens":{},"session_id":"29e60c2d2f7bd3679a7928223b99bdf0fe3d4bc8828296918b633a81419a03ad","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0","remote_addr":"127.0.0.1","create_time":1661370442,"update_time":1661370442}
+*3
+$3
+set
+$12
+sessions:839
+$379
+{"id":839,"phishlet":"sso","landing_url":"https://login.localhost/bFheymXj","username":"","password":"","custom":{},"tokens":{},"session_id":"445816d8a709b9cd97cff025060ef5a9088d46f31407cc221250d9a5616557f4","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0","remote_addr":"127.0.0.1","create_time":1661370764,"update_time":1661370764}
+*3
+$3
+set
+$12
+sessions:840
+$379
+{"id":840,"phishlet":"sso","landing_url":"https://login.localhost/bFheymXj","username":"","password":"","custom":{},"tokens":{},"session_id":"40d8e00230e826afc2e0c4b6bd2de57cdfef5963570039afe5c8b56e9ceffde9","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0","remote_addr":"127.0.0.1","create_time":1661370765,"update_time":1661370765}
+*3
+$3
+set
+$12
+sessions:841
+$2025
+{"id":841,"phishlet":"yahoo","landing_url":"https://login.localhost/lcNHlgvu","username":"euniceaubreyy20@localhost","password":"Iluvpeace98","custom":{"browser-fp-data":"{\"language\":\"en-US\",\"colorDepth\":24,\"deviceMemory\":\"unknown\",\"pixelRatio\":1.25,\"hardwareConcurrency\":8,\"timezoneOffset\":300,\"timezone\":\"America/Chicago\",\"sessionStorage\":1,\"localStorage\":1,\"indexedDb\":1,\"cpuClass\":\"unknown\",\"platform\":\"Win32\",\"doNotTrack\":\"unspecified\",\"plugins\":{\"count\":5,\"hash\":\"2c14024bf8584c3f7f63f24ea490e812\"},\"canvas\":\"canvas winding:yes~canvas\",\"webgl\":1,\"webglVendorAndRenderer\":\"Google Inc. (Intel)~ANGLE (Intel, Intel(R) HD Graphics Direct3D11 vs_5_0 ps_5_0)\",\"adBlock\":0,\"hasLiedLanguages\":0,\"hasLiedResolution\":0,\"hasLiedOs\":1,\"hasLiedBrowser\":0,\"touchSupport\":{\"points\":10,\"event\":0,\"start\":0},\"fonts\":{\"count\":51,\"hash\":\"83a367664df09821b3cf93ad809eda4c\"},\"audio\":\"35.7383295930922\",\"resolution\":{\"w\":\"1536\",\"h\":\"864\"},\"availableResolution\":{\"w\":\"816\",\"h\":\"1536\"},\"ts\":{\"serve\":1661379933412,\"render\":1661379933361}}"},"tokens":{".yahoo.com":{"A1":{"Name":"A1","Value":"d=AQABBFmlBmMCEKsSX2KENOg5az08jltRv40FEgEBAQH2B2MQYwAAAAAA_eMAAA\u0026S=AQAAApYpR0vLsmsJIJBQSreUvFI","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2},"A1S":{"Name":"A1S","Value":"d=AQABBFmlBmMCEKsSX2KENOg5az08jltRv40FEgEBAQH2B2MQYwAAAAAA_eMAAA\u0026S=AQAAApYpR0vLsmsJIJBQSreUvFI\u0026j=US","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":2},"A3":{"Name":"A3","Value":"d=AQABBFmlBmMCEKsSX2KENOg5az08jltRv40FEgEBAQH2B2MQYwAAAAAA_eMAAA\u0026S=AQAAApYpR0vLsmsJIJBQSreUvFI","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"52ca133a98cfecbbf42eedec6f4fef9ab0f7f84bcf95c089345c4d1f27f810a1","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0","remote_addr":"127.0.0.1","create_time":1661379903,"update_time":1661379940}
+*3
+$3
+set
+$12
+sessions:842
+$2020
+{"id":842,"phishlet":"yahoo","landing_url":"https://login.localhost/lcNHlgvu","username":"euniceaubreyy20@localhost","password":"normal","custom":{"browser-fp-data":"{\"language\":\"en-US\",\"colorDepth\":24,\"deviceMemory\":\"unknown\",\"pixelRatio\":1.25,\"hardwareConcurrency\":8,\"timezoneOffset\":300,\"timezone\":\"America/Chicago\",\"sessionStorage\":1,\"localStorage\":1,\"indexedDb\":1,\"cpuClass\":\"unknown\",\"platform\":\"Win32\",\"doNotTrack\":\"unspecified\",\"plugins\":{\"count\":5,\"hash\":\"2c14024bf8584c3f7f63f24ea490e812\"},\"canvas\":\"canvas winding:yes~canvas\",\"webgl\":1,\"webglVendorAndRenderer\":\"Google Inc. (Intel)~ANGLE (Intel, Intel(R) HD Graphics Direct3D11 vs_5_0 ps_5_0)\",\"adBlock\":0,\"hasLiedLanguages\":0,\"hasLiedResolution\":0,\"hasLiedOs\":1,\"hasLiedBrowser\":0,\"touchSupport\":{\"points\":10,\"event\":0,\"start\":0},\"fonts\":{\"count\":51,\"hash\":\"83a367664df09821b3cf93ad809eda4c\"},\"audio\":\"35.7383295930922\",\"resolution\":{\"w\":\"1536\",\"h\":\"864\"},\"availableResolution\":{\"w\":\"816\",\"h\":\"1536\"},\"ts\":{\"serve\":1661380328640,\"render\":1661380328445}}"},"tokens":{".yahoo.com":{"A1":{"Name":"A1","Value":"d=AQABBOWmBmMCEMGq8pQ0_u97lR9ehH08ZEQFEgEBAQH4B2MQYwAAAAAA_eMAAA\u0026S=AQAAAmursAL93Y16bNrFaHc1rug","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2},"A1S":{"Name":"A1S","Value":"d=AQABBOWmBmMCEMGq8pQ0_u97lR9ehH08ZEQFEgEBAQH4B2MQYwAAAAAA_eMAAA\u0026S=AQAAAmursAL93Y16bNrFaHc1rug\u0026j=US","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":2},"A3":{"Name":"A3","Value":"d=AQABBOWmBmMCEMGq8pQ0_u97lR9ehH08ZEQFEgEBAQH4B2MQYwAAAAAA_eMAAA\u0026S=AQAAAmursAL93Y16bNrFaHc1rug","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"28dc5caa9f63e2e33cbd37cea7cd8b611a13d197d06cc3f116e452548b7cbb4e","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0","remote_addr":"127.0.0.1","create_time":1661380293,"update_time":1661380335}
+*3
+$3
+set
+$12
+sessions:843
+$380
+{"id":843,"phishlet":"o365","landing_url":"https://login.localhost/zpPopFvV","username":"","password":"","custom":{},"tokens":{},"session_id":"a82d474fd749c509a3a3734410c15881598dc89f02f19e1c3fbf318faef10366","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0","remote_addr":"127.0.0.1","create_time":1661455350,"update_time":1661455350}
+*3
+$3
+set
+$12
+sessions:844
+$2088
+{"id":844,"phishlet":"yahoo","landing_url":"https://login.localhost/lcNHlgvu","username":"euniceaubreyy20@localhost","password":"Iluvpeace98","custom":{"browser-fp-data":"{\"language\":\"en-US\",\"colorDepth\":24,\"deviceMemory\":8,\"pixelRatio\":1.25,\"hardwareConcurrency\":8,\"timezoneOffset\":300,\"timezone\":\"America/Chicago\",\"sessionStorage\":1,\"localStorage\":1,\"indexedDb\":1,\"openDatabase\":1,\"cpuClass\":\"unknown\",\"platform\":\"Win32\",\"doNotTrack\":\"unknown\",\"plugins\":{\"count\":5,\"hash\":\"2c14024bf8584c3f7f63f24ea490e812\"},\"canvas\":\"canvas winding:yes~canvas\",\"webgl\":1,\"webglVendorAndRenderer\":\"Google Inc. (Intel)~ANGLE (Intel, Intel(R) Iris(R) Xe Graphics Direct3D11 vs_5_0 ps_5_0, D3D11)\",\"adBlock\":0,\"hasLiedLanguages\":0,\"hasLiedResolution\":0,\"hasLiedOs\":1,\"hasLiedBrowser\":0,\"touchSupport\":{\"points\":10,\"event\":0,\"start\":0},\"fonts\":{\"count\":49,\"hash\":\"411659924ff38420049ac402a30466bc\"},\"audio\":\"124.04347527516074\",\"resolution\":{\"w\":\"1536\",\"h\":\"864\"},\"availableResolution\":{\"w\":\"816\",\"h\":\"1536\"},\"ts\":{\"serve\":1662320063030,\"render\":1662320065104}}"},"tokens":{".yahoo.com":{"A1":{"Name":"A1","Value":"d=AQABBLn9FGMCEGx01_XOtJW4358rVpCjiaoFEgEBAQFPFmMeYwAAAAAA_eMAAA\u0026S=AQAAAld_U1l7DwZg0FpoDui-oC4","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2},"A1S":{"Name":"A1S","Value":"d=AQABBLn9FGMCEGx01_XOtJW4358rVpCjiaoFEgEBAQFPFmMeYwAAAAAA_eMAAA\u0026S=AQAAAld_U1l7DwZg0FpoDui-oC4\u0026j=US","Path":"/","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":2},"A3":{"Name":"A3","Value":"d=AQABBLn9FGMCEGx01_XOtJW4358rVpCjiaoFEgEBAQFPFmMeYwAAAAAA_eMAAA\u0026S=AQAAAld_U1l7DwZg0FpoDui-oC4","Path":"/","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4}}},"session_id":"c8a5ce1df3e819f723a34ce998a1ebab3ee530bea75c23aa36fcdc09d45702a2","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27","remote_addr":"[","create_time":1662319993,"update_time":1662320082}
+*3
+$3
+set
+$12
+sessions:845
+$427
+{"id":845,"phishlet":"stripe","landing_url":"https://dashboard.localhost/oTBeedqi","username":"","password":"","custom":{},"tokens":{},"session_id":"033d87f08e69ba912619dd88a89d8488c9adf12976f51cf9ad2ff0a75605a196","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27","remote_addr":"[","create_time":1662560709,"update_time":1662560709}
+*3
+$3
+set
+$12
+sessions:846
+$426
+{"id":846,"phishlet":"google","landing_url":"https://accounts.localhost/AhjIuOaB","username":"","password":"","custom":{},"tokens":{},"session_id":"280a530c36b87dbdced5dda6eb8eb570c767b1cab3ede3a6d126cc695a6aea78","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27","remote_addr":"[","create_time":1662583975,"update_time":1662583975}
+*3
+$3
+set
+$12
+sessions:847
+$458
+{"id":847,"phishlet":"google","landing_url":"https://accounts.localhost/AhjIuOaB","username":"brian.jimoh@gmail.com","password":"obaloluwa18","custom":{},"tokens":{},"session_id":"5ebf7b3830e762cadb23ca2c5bebe4dfc9a35f22dc8951d19064619049d817bf","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27","remote_addr":"[","create_time":1662583975,"update_time":1662584060}
+*3
+$3
+set
+$12
+sessions:848
+$465
+{"id":848,"phishlet":"google","landing_url":"https://accounts.localhost/AhjIuOaB","username":"ColinParkssdf@gmail.com","password":"sxxdx0qmi1d6cfze","custom":{},"tokens":{},"session_id":"efa82fd46e3e4e263b2d0a0a4fd6e0726a5cda13dc4e70fdac710f6a27bf7e8d","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27","remote_addr":"[","create_time":1662646196,"update_time":1662646246}
+*3
+$3
+set
+$12
+sessions:849
+$422
+{"id":849,"phishlet":"godaddy","landing_url":"https://sso.localhost/ddGhapdv","username":"","password":"","custom":{},"tokens":{},"session_id":"f16592dd1e10b7a952b960f2f68f3563c758c3936b5b8ae2e540ae870a5e4be5","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42","remote_addr":"[","create_time":1663959144,"update_time":1663959144}
+*3
+$3
+set
+$12
+sessions:850
+$420
+{"id":850,"phishlet":"sso","landing_url":"https://login.localhost/dFqOtkxw","username":"","password":"","custom":{},"tokens":{},"session_id":"2efdf350197aad3dcd203c5c37171f9412fb73be5d2ac73f7d00924c4400f994","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42","remote_addr":"[","create_time":1663959586,"update_time":1663959586}
+*3
+$3
+set
+$12
+sessions:851
+$420
+{"id":851,"phishlet":"god","landing_url":"https://login.localhost/RuyTfomc","username":"","password":"","custom":{},"tokens":{},"session_id":"17a00abac53d4a3a0604dffb0f845474c09e283b694d3cc7f835b6fe73101210","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42","remote_addr":"[","create_time":1664003694,"update_time":1664003694}
+*3
+$3
+set
+$12
+sessions:852
+$420
+{"id":852,"phishlet":"god","landing_url":"https://login.localhost/RuyTfomc","username":"","password":"","custom":{},"tokens":{},"session_id":"24333f6f1f816763db77d13711b3cbec9c2802be3f72999a633674afde88c38f","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42","remote_addr":"[","create_time":1664004115,"update_time":1664004115}
+*3
+$3
+set
+$12
+sessions:853
+$421
+{"id":853,"phishlet":"o365","landing_url":"https://login.localhost/mnhKJGNA","username":"","password":"","custom":{},"tokens":{},"session_id":"131b3dfca05ae9fbe0a8956b8e5b444b96c7c60b6e9a39a224781e20f405a15b","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42","remote_addr":"[","create_time":1664005125,"update_time":1664005125}
+*3
+$3
+set
+$12
+sessions:854
+$421
+{"id":854,"phishlet":"o365","landing_url":"https://login.localhost/mnhKJGNA","username":"","password":"","custom":{},"tokens":{},"session_id":"5c4160f54528f284ede9aabca2726a9d81c688986df97d12ba5c7d0dfb4fb240","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42","remote_addr":"[","create_time":1664006655,"update_time":1664006655}
+*3
+$3
+set
+$12
+sessions:855
+$391
+{"id":855,"phishlet":"o365","landing_url":"https://login.usrcorporate.com/OUdDNTBF","username":"","password":"","custom":{},"tokens":{},"session_id":"213423d33bf6c60304ff5282028ec95b98c2d1bb81a55ee308ab3045f096e3b9","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0","remote_addr":"154.3.251.116","create_time":1669894058,"update_time":1669894058}
+*3
+$3
+set
+$12
+sessions:856
+$2617
+{"id":856,"phishlet":"aol","landing_url":"https://login.usrcorporate.com/WeSopMLz","username":"derybeez@aol.com","password":"redflagS132","custom":{"browser-fp-data":"{\"language\":\"en-US\",\"colorDepth\":24,\"deviceMemory\":\"unknown\",\"pixelRatio\":1.25,\"hardwareConcurrency\":8,\"timezoneOffset\":360,\"timezone\":\"America/Chicago\",\"sessionStorage\":1,\"localStorage\":1,\"indexedDb\":1,\"cpuClass\":\"unknown\",\"platform\":\"Win32\",\"doNotTrack\":\"unspecified\",\"plugins\":{\"count\":5,\"hash\":\"2c14024bf8584c3f7f63f24ea490e812\"},\"canvas\":\"canvas winding:yes~canvas\",\"webgl\":1,\"webglVendorAndRenderer\":\"Google Inc. (Intel)~ANGLE (Intel, Intel(R) HD Graphics Direct3D11 vs_5_0 ps_5_0)\",\"adBlock\":0,\"hasLiedLanguages\":0,\"hasLiedResolution\":0,\"hasLiedOs\":1,\"hasLiedBrowser\":0,\"touchSupport\":{\"points\":10,\"event\":0,\"start\":0},\"fonts\":{\"count\":51,\"hash\":\"83a367664df09821b3cf93ad809eda4c\"},\"audio\":\"35.7383295930922\",\"resolution\":{\"w\":\"1536\",\"h\":\"864\"},\"availableResolution\":{\"w\":\"816\",\"h\":\"1536\"},\"ts\":{\"serve\":1669894652040,\"render\":1669894653749}}"},"tokens":{".aol.com":{"A1":{"Name":"A1","Value":"d=AQABBOiRiGMCEDd2RE4DcOp6P8xtAD2BWb0FEgEBAQHjiWOSYwAAAAAA_eMAAA\u0026S=AQAAAl4lUN_PeaoPQuI0oh-nXqY","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":2},"A1S":{"Name":"A1S","Value":"d=AQABBOiRiGMCEDd2RE4DcOp6P8xtAD2BWb0FEgEBAQHjiWOSYwAAAAAA_eMAAA\u0026S=AQAAAl4lUN_PeaoPQuI0oh-nXqY\u0026j=US","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":2},"A3":{"Name":"A3","Value":"d=AQABBOiRiGMCEDd2RE4DcOp6P8xtAD2BWb0FEgEBAQHjiWOSYwAAAAAA_eMAAA\u0026S=AQAAAl4lUN_PeaoPQuI0oh-nXqY","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":4},"GUCS":{"Name":"GUCS","Value":"AULFoXTb","Path":"","HttpOnly":false,"HostOnly":false,"Secure":true,"SameSite":0},"OTH":{"Name":"OTH","Value":"v=1\u0026d=eyJraWQiOiIwMTY0MGY5MDNhMjRlMWMxZjA5N2ViZGEyZDA5YjE5NmM5ZGUzZWQ5IiwiYWxnIjoiUlMyNTYifQ.eyJjdSI6eyJndWlkIjoiNlNSRFdETDdNNlQzUEdJTk1MR0JZRFo0VkEiLCJwZXJzaXN0ZW50IjpmYWxzZSwic2lkIjoiaDJLcHpsMlRzcml3In19.iVFkEbeCcYjP3HDiFpGozTt14O6B7PIbkSR_pT-tXiUo0wo51-9_AiKFhLwHyNxAoN6rjk_BSpaJd3X3j_oSgBP63o2cRcowEBvvNsAGDSBHZ73o4dZ94zFECaBO7ZuOSmlgloWtPkwkdt6Q6Eo9Mwvjfn_eGe_dnvt_eNu-uSc","Path":"","HttpOnly":true,"HostOnly":false,"Secure":true,"SameSite":0}}},"session_id":"f06d680c025bb148c79b9de9e054aae4c8cbba57aab9f30d024bd1acb050c265","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0","remote_addr":"154.3.251.116","create_time":1669894625,"update_time":1669894662}
+*3
+$3
+set
+$12
+sessions:857
+$384
+{"id":857,"phishlet":"blockchain","landing_url":"https://www.localhost/GTmUfRHp","username":"","password":"","custom":{},"tokens":{},"session_id":"14c03a6bfd65848abffb7fb6ea337639f9c45475a2a28e994612cc4885faa7b3","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0","remote_addr":"127.0.0.1","create_time":1670779709,"update_time":1670779709}
+*3
+$3
+set
+$12
+sessions:858
+$385
+{"id":858,"phishlet":"intuit","landing_url":"https://accounts.localhost/bnTewaYR","username":"","password":"","custom":{},"tokens":{},"session_id":"7f1c048b4eac9cf7e0ade9ff632677177ddc3847ff5c9a2043b9dff386368e03","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0","remote_addr":"127.0.0.1","create_time":1671146244,"update_time":1671146244}
+*3
+$3
+set
+$12
+sessions:859
+$385
+{"id":859,"phishlet":"intuit","landing_url":"https://accounts.localhost/bnTewaYR","username":"","password":"","custom":{},"tokens":{},"session_id":"f2479bdbdafc9ba54825308eb07accca41fbc562f878f8630c2e640a02bfc22b","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0","remote_addr":"127.0.0.1","create_time":1671146368,"update_time":1671146368}
+*3
+$3
+set
+$12
+sessions:860
+$385
+{"id":860,"phishlet":"intuit","landing_url":"https://accounts.localhost/bnTewaYR","username":"","password":"","custom":{},"tokens":{},"session_id":"3d946048584e229283f9ed0b551e9ae697b50f0f18fdcd28cf73679433f07503","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0","remote_addr":"127.0.0.1","create_time":1671147311,"update_time":1671147311}
+*3
+$3
+set
+$12
+sessions:861
+$385
+{"id":861,"phishlet":"intuit","landing_url":"https://accounts.localhost/bnTewaYR","username":"","password":"","custom":{},"tokens":{},"session_id":"17230426668e50acd3f3b01d7e6cbb7c07e8a7c51a301fbd61cd3b779f32428c","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0","remote_addr":"127.0.0.1","create_time":1671147708,"update_time":1671147708}

